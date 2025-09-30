@@ -1,11 +1,5 @@
 [
   {
-    "id": -1,
-    "name": " ",
-    "cover": " ",
-    "url": " "
-  },
-  {
     "id": 0,
     "name": "Bowmasters",
     "cover": "{COVER_URL}/0.png",
@@ -76,14 +70,6 @@
     "url": "{HTML_URL}/8.html",
     "author": "ninja-muffin24",
     "authorLink": "https://ninja-muffin24.itch.io/funkin"
-  },
-  {
-    "id": 9,
-    "name": "Sprunki",
-    "cover": "{COVER_URL}/9.png",
-    "url": "{HTML_URL}/9.html",
-    "author": "NyankoBfLol",
-    "authorLink": "https://www.cocrea.world/@NyankoBfLmao"
   },
   {
     "id": 10,
@@ -2022,15 +2008,6 @@
     "url": "{HTML_URL}/252.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com"
-  },
-  {
-    "id": 253,
-    "name": "Chat Bot (A.|.I)",
-    "cover": "{COVER_URL}/253.png",
-    "url": "{HTML_URL}/253.html",
-    "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
-    "featured": true
   },
   {
     "id": 255,
