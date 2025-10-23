@@ -5240,5 +5240,200 @@
     "author": "CrazyGames",
     "authorLink": "https://www.crazygames.com/",
     "genre": "Arcade"
+  },
+  {
+    "id": 585,
+    "name": "Fallout",
+    "cover": "{COVER_URL}/585.png",
+    "url": "{HTML_URL}/585.html",
+    "author": "Bethesda Softworks",
+    "authorLink": "https://bethesda.net/en/dashboard",
+    "special": [
+      "port"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 586,
+    "name": "The Oregon Trail",
+    "cover": "{COVER_URL}/586.png",
+    "url": "{HTML_URL}/586.html",
+    "author": "MECC",
+    "authorLink": "https://archive.org/details/msdos_Oregon_Trail_The_1990",
+    "genre": "Arcade"
+  },
+  {
+    "id": 587,
+    "name": "Newgrounds Rumble",
+    "cover": "{COVER_URL}/587.png",
+    "url": "{HTML_URL}/587.html",
+    "author": "NegativeONE, Luis, MindChamber",
+    "authorLink": "https://www.newgrounds.com/portal/view/381115",
+    "special": [
+      "flash"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 588,
+    "name": "Super Mario 64",
+    "cover": "{COVER_URL}/588.png",
+    "url": "{HTML_URL}/588.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "port"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 589,
+    "name": "Sonic CD",
+    "cover": "{COVER_URL}/589.png",
+    "url": "{HTML_URL}/589.html",
+    "author": "SEGA",
+    "authorLink": "https://sega.com",
+    "special": [
+      "port"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 590,
+    "name": "Sonic Mania",
+    "cover": "{COVER_URL}/590.png",
+    "url": "{HTML_URL}/590.html",
+    "author": "SEGA",
+    "authorLink": "https://sega.com",
+    "special": [
+      "port"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 591,
+    "name": "Slime Rancher",
+    "cover": "{COVER_URL}/591.png",
+    "url": "{HTML_URL}/591-a.html",
+    "author": "Monomi Park",
+    "authorLink": "https://monomipark.com/",
+    "special": [
+      "port"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 592,
+    "name": "Pac Man World",
+    "cover": "{COVER_URL}/592.png",
+    "url": "{HTML_URL}/592.html",
+    "author": "Full Fat Games",
+    "authorLink": "https://www.full-fat.com/",
+    "special": [
+      "emulator"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 593,
+    "name": "Pac Man World 2",
+    "cover": "{COVER_URL}/593.png",
+    "url": "{HTML_URL}/593.html",
+    "author": "Full Fat Games",
+    "authorLink": "https://www.full-fat.com/",
+    "special": [
+      "emulator"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 594,
+    "name": "Waterworks!",
+    "cover": "{COVER_URL}/594.png",
+    "url": "{HTML_URL}/594.html",
+    "author": "scriptwelder",
+    "authorLink": "https://scriptwelder.itch.io/waterworks",
+    "genre": "Arcade"
+  },
+  {
+    "id": 595,
+    "name": "Shapez.io",
+    "cover": "{COVER_URL}/595.png",
+    "url": "{HTML_URL}/595.html",
+    "author": "scriptwelder",
+    "authorLink": "https://scriptwelder.itch.io/waterworks",
+    "genre": "Arcade"
+  },
+  {
+    "id": 597,
+    "name": "Plants vs. Zombies 2 Gardenless",
+    "cover": "{COVER_URL}/597.png",
+    "url": "{HTML_URL}/597.html",
+    "author": "Gzh0821",
+    "authorLink": "https://pvzge.com/en/",
+    "genre": "Arcade"
+  },
+  {
+    "id": 598,
+    "name": "Sonic.EXE",
+    "cover": "{COVER_URL}/598.png",
+    "url": "{HTML_URL}/598.html",
+    "author": " Cinossu",
+    "authorLink": "https://info.sonicretro.org/An_Ordinary_Sonic_ROM_Hack",
+    "special": [
+      "emulator",
+      "genesis"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 599,
+    "name": "Metal Gear Solid",
+    "cover": "{COVER_URL}/599.png",
+    "url": "{HTML_URL}/599.html",
+    "author": " Konami Computer Entertainment Japan",
+    "authorLink": "https://www.konami.com/",
+    "special": [
+      "emulator",
+      "ps1"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 600,
+    "name": "FNF Vs. Hypno's Lullaby v2",
+    "cover": "{COVER_URL}/600.png",
+    "url": "{HTML_URL}/600.html",
+    "author": "Hypno's Lullaby Team",
+    "authorLink": "https://gamebanana.com/wips/73522",
+    "special": [
+      "fnf mods"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 601,
+    "name": "FNF Vs. Sonic.EXE 3.0/4.0",
+    "cover": "{COVER_URL}/601.png",
+    "url": "{HTML_URL}/601.html",
+    "author": "FNF Vs. Sonic.EXE Team",
+    "authorLink": "https://gamebanana.com/mods/531361",
+    "special": [
+      "fnf mods"
+    ],
+    "genre": "Arcade"
+  },
+  {
+    "id": 602,
+    "name": "Doom 2",
+    "cover": "{COVER_URL}/602.png",
+    "url": "{HTML_URL}/602.html",
+    "author": "id Software",
+    "authorLink": "https://www.idsoftware.com/",
+    "special": [
+      "emulator",
+      "ms-dos"
+    ],
+    "genre": "Arcade"
   }
 ]
