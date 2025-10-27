@@ -913,7 +913,7 @@
     "name": "Ninja vs EvilCorp",
     "cover": "{COVER_URL}/101.png",
     "url": "{HTML_URL}/101.html",
-    "author": "R\u00e9mi Vansteelandt",
+    "author": "Rémi Vansteelandt",
     "authorLink": "https://remvst.com",
     "genre": "Arcade"
   },
@@ -2640,7 +2640,7 @@
     "name": "Idle Dice",
     "cover": "{COVER_URL}/294.png",
     "url": "{HTML_URL}/294.html",
-    "author": "Lutz Sch\u00f6nfelder",
+    "author": "Lutz Schönfelder",
     "authorLink": "https://github.com/luts91",
     "genre": "Simulation"
   },
@@ -4386,7 +4386,7 @@
     "name": "Friday Night Funkin': Indie Cross",
     "cover": "{COVER_URL}/489.png",
     "url": "{HTML_URL}/489.html",
-    "author": "MOR\u00d8 etc",
+    "author": "MORØ etc",
     "authorLink": "https://gamejolt.com/games/indiecross/643540",
     "genre": "Rhythm"
   },
@@ -4566,7 +4566,7 @@
   },
   {
     "id": 509,
-    "name": "Friday Night Funkin\u2019 Soft",
+    "name": "Friday Night Funkin’ Soft",
     "cover": "{COVER_URL}/509.png",
     "url": "{HTML_URL}/509.html",
     "author": "ShiniTrexx etc",
@@ -5435,5 +5435,74 @@
       "ms-dos"
     ],
     "genre": "Arcade"
+  },
+  {
+    "id": 603,
+    "name": "Growden.io",
+    "cover": "{COVER_URL}/603.png",
+    "url": "{HTML_URL}/603-aa.html",
+    "author": "growden.io",
+    "authorLink": "https://growden.io/",
+    "genre": "IO / Multiplayer"
+  },
+  {
+    "id": 604,
+    "name": "Minesweeper Plus",
+    "cover": "{COVER_URL}/604.png",
+    "url": "{HTML_URL}/604.html",
+    "author": "Jorel Simpson",
+    "authorLink": "https://jorel-simpson.itch.io/minesweeper-plus",
+    "special": [
+      "port"
+    ],
+    "genre": "Puzzle"
+  },
+  {
+    "id": 605,
+    "name": "Schoolboy Runaway",
+    "cover": "{COVER_URL}/605.png",
+    "url": "{HTML_URL}/605-e.html",
+    "author": "Linked Squad",
+    "authorLink": "https://linked-squad.com/",
+    "special": [
+      "port"
+    ],
+    "genre": "Platformer"
+  },
+  {
+    "id": 606,
+    "name": "Sonic.EXE (ORIGINAL)",
+    "cover": "{COVER_URL}/606.png",
+    "url": "{HTML_URL}/606-e.html",
+    "author": "MY5TCrimson",
+    "authorLink": "https://gamejolt.com/games/sonic-exe-the-game/16239",
+    "special": [
+      "port"
+    ],
+    "genre": "Horror"
+  },
+  {
+    "id": 607,
+    "name": "Tattletail",
+    "cover": "{COVER_URL}/607.png",
+    "url": "{HTML_URL}/607-e.html",
+    "author": "Waygetter Electronics, Ported by Snubby.top",
+    "authorLink": "https://store.steampowered.com/app/568090/Tattletail/",
+    "special": [
+      "port"
+    ],
+    "genre": "Horror"
+  },
+  {
+    "id": 608,
+    "name": "Friday Night Funkin VS Impostor v4",
+    "cover": "{COVER_URL}/608.png",
+    "url": "{HTML_URL}/608.html",
+    "author": "Imposter v4 team",
+    "authorLink": "https://gamebanana.com/mods/55652",
+    "special": [
+      "fnf"
+    ],
+    "genre": "Rhythm"
   }
 ]
