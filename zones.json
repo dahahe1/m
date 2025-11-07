@@ -6,7 +6,7 @@
     "url": "{HTML_URL}/0.html",
     "author": "Azur Games, Playgendary",
     "authorLink": "https://azurgames.com",
-    "genre": "Arcade"
+    "genre": "Action"
   },
   {
     "id": 1,
@@ -69,7 +69,7 @@
     "url": "{HTML_URL}/7.html",
     "author": "Halfbrick Studios",
     "authorLink": "https://www.halfbrick.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 8,
@@ -96,7 +96,7 @@
     "url": "{HTML_URL}/10.html",
     "author": "Imangi STUDIOS",
     "authorLink": "https://imangistudios.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 11,
@@ -105,7 +105,7 @@
     "url": "{HTML_URL}/11.html",
     "author": "Madbox",
     "authorLink": "https://madbox.io",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 12,
@@ -114,7 +114,7 @@
     "url": "{HTML_URL}/12.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 13,
@@ -141,7 +141,7 @@
     "url": "{HTML_URL}/15.html",
     "author": "Tapnation",
     "authorLink": "https://www.tap-nation.io",
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 16,
@@ -159,7 +159,7 @@
     "url": "{HTML_URL}/17.html",
     "author": "AmaNotes",
     "authorLink": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles",
-    "genre": "Arcade"
+    "genre": "Rhythm"
   },
   {
     "id": 18,
@@ -168,7 +168,7 @@
     "url": "{HTML_URL}/18.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.Born2Play.StackyDash",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 19,
@@ -177,7 +177,7 @@
     "url": "{HTML_URL}/19.html",
     "author": "Neron's Brother",
     "authorLink": "https://neronsbrother.com",
-    "genre": "Arcade"
+    "genre": "Fighting"
   },
   {
     "id": 20,
@@ -231,7 +231,7 @@
     "url": "{HTML_URL}/25.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.noorgames.basketbattle",
-    "genre": "Sports"
+    "genre": "Fighting"
   },
   {
     "id": 26,
@@ -249,7 +249,7 @@
     "url": "{HTML_URL}/27.html",
     "author": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
     "authorLink": "RobTop Games",
-    "genre": "Platformer"
+    "genre": "Rhythm"
   },
   {
     "id": 28,
@@ -258,7 +258,7 @@
     "url": "{HTML_URL}/28.html",
     "author": "FRVR",
     "authorLink": "https://play.google.com/store/apps/details?id=com.frvr.basketball",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 29,
@@ -276,7 +276,7 @@
     "url": "{HTML_URL}/30.html",
     "author": "CASUAL AZUR GAMES",
     "authorLink": "https://play.google.com/store/apps/details?id=com.games.bottle",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 31,
@@ -303,7 +303,7 @@
     "url": "{HTML_URL}/33.html",
     "author": "",
     "authorLink": "",
-    "genre": "Sports"
+    "genre": "Action"
   },
   {
     "id": 34,
@@ -312,7 +312,7 @@
     "url": "{HTML_URL}/34.html",
     "author": "",
     "authorLink": "",
-    "genre": "Sports"
+    "genre": "Action"
   },
   {
     "id": 35,
@@ -348,9 +348,6 @@
     "url": "{HTML_URL}/38.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
   },
   {
@@ -360,9 +357,6 @@
     "url": "{HTML_URL}/39.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
   },
   {
@@ -372,9 +366,6 @@
     "url": "{HTML_URL}/40.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
   },
   {
@@ -384,9 +375,6 @@
     "url": "{HTML_URL}/41.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
   },
   {
@@ -414,7 +402,7 @@
     "url": "{HTML_URL}/44.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Action"
   },
   {
     "id": 45,
@@ -423,9 +411,6 @@
     "url": "{HTML_URL}/45.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Platformer"
   },
   {
@@ -435,9 +420,6 @@
     "url": "{HTML_URL}/46.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Platformer"
   },
   {
@@ -447,9 +429,6 @@
     "url": "{HTML_URL}/47.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Platformer"
   },
   {
@@ -540,7 +519,7 @@
     "url": "{HTML_URL}/57.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Simulation"
   },
   {
     "id": 58,
@@ -549,7 +528,7 @@
     "url": "{HTML_URL}/58.html",
     "author": "",
     "authorLink": "",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 59,
@@ -558,7 +537,7 @@
     "url": "{HTML_URL}/59.html",
     "author": "",
     "authorLink": "",
-    "genre": "Rhythm"
+    "genre": "Arcade"
   },
   {
     "id": 60,
@@ -567,9 +546,6 @@
     "url": "{HTML_URL}/60.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -579,9 +555,6 @@
     "url": "{HTML_URL}/61.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -591,9 +564,6 @@
     "url": "{HTML_URL}/62.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -603,7 +573,7 @@
     "url": "{HTML_URL}/63.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Action"
   },
   {
     "id": 64,
@@ -612,7 +582,7 @@
     "url": "{HTML_URL}/64.html",
     "author": "",
     "authorLink": "",
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 65,
@@ -621,7 +591,7 @@
     "url": "{HTML_URL}/65.html",
     "author": "",
     "authorLink": "",
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 66,
@@ -639,7 +609,7 @@
     "url": "{HTML_URL}/67.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 68,
@@ -648,7 +618,7 @@
     "url": "{HTML_URL}/68.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 69,
@@ -657,7 +627,7 @@
     "url": "{HTML_URL}/69.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 70,
@@ -666,7 +636,7 @@
     "url": "{HTML_URL}/70.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Simulation"
   },
   {
     "id": 71,
@@ -675,10 +645,7 @@
     "url": "{HTML_URL}/71.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Tower Defense"
   },
   {
     "id": 72,
@@ -687,10 +654,7 @@
     "url": "{HTML_URL}/72.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Tower Defense"
   },
   {
     "id": 73,
@@ -699,10 +663,7 @@
     "url": "{HTML_URL}/73.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Tower Defense"
   },
   {
     "id": 74,
@@ -711,10 +672,7 @@
     "url": "{HTML_URL}/74.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Tower Defense"
   },
   {
     "id": 75,
@@ -723,10 +681,7 @@
     "url": "{HTML_URL}/75.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Tower Defense"
   },
   {
     "id": 76,
@@ -735,7 +690,7 @@
     "url": "{HTML_URL}/76.html",
     "author": "",
     "authorLink": "",
-    "genre": "Puzzle"
+    "genre": "Arcade"
   },
   {
     "id": 77,
@@ -753,9 +708,6 @@
     "url": "{HTML_URL}/78.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -765,10 +717,7 @@
     "url": "{HTML_URL}/79.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Sports"
+    "genre": "Action"
   },
   {
     "id": 80,
@@ -777,10 +726,7 @@
     "url": "{HTML_URL}/80.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Sports"
+    "genre": "Action"
   },
   {
     "id": 81,
@@ -807,7 +753,7 @@
     "url": "{HTML_URL}/83.html",
     "author": "",
     "authorLink": "",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 84,
@@ -816,9 +762,6 @@
     "url": "{HTML_URL}/84.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -837,7 +780,7 @@
     "url": "{HTML_URL}/86.html",
     "author": "",
     "authorLink": "",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 87,
@@ -846,9 +789,6 @@
     "url": "{HTML_URL}/87.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "emulator"
-    ],
     "genre": "Arcade"
   },
   {
@@ -858,10 +798,7 @@
     "url": "{HTML_URL}/88.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Puzzle"
+    "genre": "Arcade"
   },
   {
     "id": 89,
@@ -870,10 +807,7 @@
     "url": "{HTML_URL}/89.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Puzzle"
+    "genre": "Arcade"
   },
   {
     "id": 90,
@@ -882,7 +816,7 @@
     "url": "{HTML_URL}/90.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 91,
@@ -891,10 +825,7 @@
     "url": "{HTML_URL}/91.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 92,
@@ -930,9 +861,6 @@
     "url": "{HTML_URL}/95.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -987,7 +915,7 @@
     "url": "{HTML_URL}/101.html",
     "author": "Rémi Vansteelandt",
     "authorLink": "https://remvst.com",
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 102,
@@ -1005,9 +933,6 @@
     "url": "{HTML_URL}/103.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1017,9 +942,6 @@
     "url": "{HTML_URL}/104.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1029,9 +951,6 @@
     "url": "{HTML_URL}/105.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1041,9 +960,6 @@
     "url": "{HTML_URL}/106.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1053,9 +969,6 @@
     "url": "{HTML_URL}/107.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1065,7 +978,7 @@
     "url": "{HTML_URL}/108.html",
     "author": "",
     "authorLink": "",
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 109,
@@ -1083,9 +996,6 @@
     "url": "{HTML_URL}/110.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1095,7 +1005,7 @@
     "url": "{HTML_URL}/111.html",
     "author": "",
     "authorLink": "",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 112,
@@ -1113,10 +1023,6 @@
     "url": "{HTML_URL}/113.html",
     "author": "",
     "authorLink": "",
-    "special": [
-      "emulator",
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1135,7 +1041,7 @@
     "url": "{HTML_URL}/115.html",
     "author": "",
     "authorLink": "",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 116,
@@ -1144,7 +1050,7 @@
     "url": "{HTML_URL}/116.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Racing"
   },
   {
     "id": 117,
@@ -1180,7 +1086,7 @@
     "url": "{HTML_URL}/120.html",
     "author": "",
     "authorLink": "",
-    "genre": "Shooter"
+    "genre": "Fighting"
   },
   {
     "id": 121,
@@ -1189,7 +1095,7 @@
     "url": "{HTML_URL}/121.html",
     "author": "",
     "authorLink": "",
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 122,
@@ -1207,7 +1113,7 @@
     "url": "{HTML_URL}/123.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Racing"
   },
   {
     "id": 124,
@@ -1216,7 +1122,7 @@
     "url": "{HTML_URL}/124.html",
     "author": "",
     "authorLink": "",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 125,
@@ -1225,7 +1131,7 @@
     "url": "{HTML_URL}/125.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 126,
@@ -1234,7 +1140,7 @@
     "url": "{HTML_URL}/126.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 127,
@@ -1243,7 +1149,7 @@
     "url": "{HTML_URL}/127.html",
     "author": "",
     "authorLink": "",
-    "genre": "Shooter"
+    "genre": "Fighting"
   },
   {
     "id": 128,
@@ -1270,7 +1176,7 @@
     "url": "{HTML_URL}/130.html",
     "author": "",
     "authorLink": "",
-    "genre": "Arcade"
+    "genre": "Rhythm"
   },
   {
     "id": 131,
@@ -1279,7 +1185,7 @@
     "url": "{HTML_URL}/131.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 132,
@@ -1288,7 +1194,7 @@
     "url": "{HTML_URL}/132.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 133,
@@ -1297,7 +1203,7 @@
     "url": "{HTML_URL}/133.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 134,
@@ -1306,7 +1212,7 @@
     "url": "{HTML_URL}/134.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 135,
@@ -1315,7 +1221,7 @@
     "url": "{HTML_URL}/135.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 136,
@@ -1324,7 +1230,7 @@
     "url": "{HTML_URL}/136.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 137,
@@ -1333,7 +1239,7 @@
     "url": "{HTML_URL}/137.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 138,
@@ -1342,7 +1248,7 @@
     "url": "{HTML_URL}/138.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 139,
@@ -1351,7 +1257,7 @@
     "url": "{HTML_URL}/139.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 140,
@@ -1360,7 +1266,7 @@
     "url": "{HTML_URL}/140.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 141,
@@ -1369,7 +1275,7 @@
     "url": "{HTML_URL}/141.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 142,
@@ -1378,7 +1284,7 @@
     "url": "{HTML_URL}/142.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 143,
@@ -1387,7 +1293,7 @@
     "url": "{HTML_URL}/143.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 144,
@@ -1396,7 +1302,7 @@
     "url": "{HTML_URL}/144.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 145,
@@ -1405,7 +1311,7 @@
     "url": "{HTML_URL}/145.html",
     "author": "SYBO",
     "authorLink": "https://sybogames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 146,
@@ -1414,7 +1320,7 @@
     "url": "{HTML_URL}/146.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.eightballbilliardsclassic",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 147,
@@ -1423,7 +1329,7 @@
     "url": "{HTML_URL}/147.html",
     "author": "Rovio Entertainment",
     "authorLink": "https://www.rovio.com",
-    "genre": "Arcade"
+    "genre": "Action"
   },
   {
     "id": 148,
@@ -1441,7 +1347,7 @@
     "url": "{HTML_URL}/149.html",
     "author": "Voodoo",
     "authorLink": "https://play.google.com/store/apps/details?id=com.nomonkeys.ballblast",
-    "genre": "Sports"
+    "genre": "Puzzle"
   },
   {
     "id": 150,
@@ -1450,7 +1356,7 @@
     "url": "{HTML_URL}/150.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.cannonballs3d",
-    "genre": "Sports"
+    "genre": "Action"
   },
   {
     "id": 151,
@@ -1459,7 +1365,7 @@
     "url": "{HTML_URL}/151.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.chessclassic",
-    "genre": "Arcade"
+    "genre": "Strategy"
   },
   {
     "id": 152,
@@ -1504,7 +1410,7 @@
     "url": "{HTML_URL}/156.html",
     "author": "CASUAL AZUR GAMES",
     "authorLink": "https://play.google.com/store/apps/details?id=com.harvest.io",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 157,
@@ -1513,7 +1419,7 @@
     "url": "{HTML_URL}/157.html",
     "author": "Fingersoft",
     "authorLink": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb",
-    "genre": "Platformer"
+    "genre": "Racing"
   },
   {
     "id": 158,
@@ -1549,7 +1455,7 @@
     "url": "{HTML_URL}/161.html",
     "author": "CASUAL AZUR GAMES",
     "authorLink": "https://play.google.com/store/apps/details?id=io.state.fight",
-    "genre": "Party"
+    "genre": "Strategy"
   },
   {
     "id": 162,
@@ -1558,7 +1464,7 @@
     "url": "{HTML_URL}/162.html",
     "author": "Famobi",
     "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.towercrash3d",
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 163,
@@ -1567,7 +1473,7 @@
     "url": "{HTML_URL}/163.html",
     "author": "etermax",
     "authorLink": "https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite",
-    "genre": "Arcade"
+    "genre": "Strategy"
   },
   {
     "id": 164,
@@ -1576,9 +1482,6 @@
     "url": "{HTML_URL}/164-temp2.html",
     "author": "4nn4t4t",
     "authorLink": "https://4nn4t4t.itch.io/crazycattle3d",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1598,9 +1501,6 @@
     "author": "98corbins",
     "authorLink": "https://98corbins.netlify.app",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1610,7 +1510,7 @@
     "url": "{HTML_URL}/167.html",
     "author": "??",
     "authorLink": "",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 168,
@@ -1637,10 +1537,7 @@
     "url": "{HTML_URL}/170.html",
     "author": "EO Interactive",
     "authorLink": "https://apps.apple.com/my/developer/eo-interactive-ltd/id457003279",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 171,
@@ -1676,10 +1573,7 @@
     "url": "{HTML_URL}/174.html",
     "author": "Kendja",
     "authorLink": "https://www.newgrounds.com/portal/view/603435",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Sandbox"
   },
   {
     "id": 175,
@@ -1688,9 +1582,6 @@
     "url": "{HTML_URL}/175.html",
     "author": "Joseph Cloutier",
     "authorLink": "https://player03.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Platformer"
   },
   {
@@ -1700,9 +1591,6 @@
     "url": "{HTML_URL}/176.html",
     "author": "Joseph Cloutier",
     "authorLink": "https://player03.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Platformer"
   },
   {
@@ -1712,9 +1600,6 @@
     "url": "{HTML_URL}/177.html",
     "author": "Joseph Cloutier",
     "authorLink": "https://player03.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Platformer"
   },
   {
@@ -1724,10 +1609,7 @@
     "url": "{HTML_URL}/178.html",
     "author": "Armor Games",
     "authorLink": "https://armorgames.com/play/17817/swords-and-souls",
-    "special": [
-      "flash"
-    ],
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 179,
@@ -1737,9 +1619,6 @@
     "author": "genizy",
     "authorLink": "https://github.com/genizy/soundboard/",
     "featured": true,
-    "special": [
-      "tools"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1786,9 +1665,6 @@
     "url": "{HTML_URL}/185.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
   },
   {
@@ -1798,7 +1674,7 @@
     "url": "{HTML_URL}/186.html",
     "author": "Ericetto",
     "authorLink": "https://www.snokido.com/author/ericetto",
-    "genre": "Arcade"
+    "genre": "Action"
   },
   {
     "id": 187,
@@ -1807,10 +1683,7 @@
     "url": "{HTML_URL}/187.html",
     "author": "Lucas Pope",
     "authorLink": "https://dukope.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Simulation"
   },
   {
     "id": 188,
@@ -1828,9 +1701,6 @@
     "url": "{HTML_URL}/190.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
   },
   {
@@ -1840,9 +1710,6 @@
     "url": "{HTML_URL}/191.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
   },
   {
@@ -1852,9 +1719,6 @@
     "url": "{HTML_URL}/192.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
   },
   {
@@ -1864,9 +1728,6 @@
     "url": "{HTML_URL}/193.html",
     "author": "Pixelliminal",
     "authorLink": "https://pixeliminal.itch.io/do-not-take-this-cat-home",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1877,9 +1738,6 @@
     "author": "Studio Minus, 98corbins",
     "authorLink": "https://store.steampowered.com/app/1118200/",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1890,9 +1748,6 @@
     "author": "semiwork, 98corbins",
     "authorLink": "https://store.steampowered.com/app/3241660/",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -1903,10 +1758,7 @@
     "author": "New Blood Interactive, Cake Logic",
     "authorLink": "https://sites.google.com/view/cakelogic",
     "featured": true,
-    "special": [
-      "port"
-    ],
-    "genre": "Arcade"
+    "genre": "Shooter"
   },
   {
     "id": 197,
@@ -1924,7 +1776,7 @@
     "url": "{HTML_URL}/198.html",
     "author": "coweggs",
     "authorLink": "https://coweggs.itch.io/slope-plus",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 199,
@@ -1966,10 +1818,10 @@
     "id": 203,
     "name": "DOOM",
     "cover": "{COVER_URL}/203.png",
-    "url": "{HTML_URL}/203-a.html",
+    "url": "{HTML_URL}/203.html",
     "author": "Id Software",
     "authorLink": "https://www.idsoftware.com",
-    "genre": "Arcade"
+    "genre": "Shooter"
   },
   {
     "id": 204,
@@ -1978,7 +1830,7 @@
     "url": "{HTML_URL}/204.html",
     "author": "lax1dude",
     "authorLink": "https://lax1dude.net",
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 205,
@@ -1988,9 +1840,6 @@
     "author": "Mike Klubnika",
     "authorLink": "https://mikeklubnika.itch.io/buckshot-roulette",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2000,7 +1849,7 @@
     "url": "{HTML_URL}/206.html",
     "author": "Deer Cat Games",
     "authorLink": "http://www.deercatgames.com",
-    "genre": "Arcade"
+    "genre": "Endless Runner"
   },
   {
     "id": 207,
@@ -2009,7 +1858,7 @@
     "url": "{HTML_URL}/207.html",
     "author": "Royalec/Tokyo",
     "authorLink": "https://google.com/search?q=Tokyo+Royalec",
-    "genre": "Shooter"
+    "genre": "Fighting"
   },
   {
     "id": 208,
@@ -2082,10 +1931,7 @@
     "author": "Joey Drew Studios",
     "authorLink": "https://www.joeydrewstudios.com/batim",
     "featured": true,
-    "special": [
-      "port"
-    ],
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 216,
@@ -2095,10 +1941,7 @@
     "author": "Nacho Games",
     "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/",
     "featured": true,
-    "special": [
-      "port"
-    ],
-    "genre": "Arcade"
+    "genre": "Simulation"
   },
   {
     "id": 217,
@@ -2108,9 +1951,6 @@
     "author": "Dennaton Games",
     "authorLink": "https://store.steampowered.com/app/219150/Hotline_Miami/",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2120,10 +1960,7 @@
     "url": "{HTML_URL}/218.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 219,
@@ -2132,10 +1969,7 @@
     "url": "{HTML_URL}/219.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 220,
@@ -2144,10 +1978,7 @@
     "url": "{HTML_URL}/220.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 221,
@@ -2156,10 +1987,7 @@
     "url": "{HTML_URL}/221.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 222,
@@ -2168,10 +1996,7 @@
     "url": "{HTML_URL}/222.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 223,
@@ -2180,10 +2005,7 @@
     "url": "{HTML_URL}/223.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 224,
@@ -2192,10 +2014,7 @@
     "url": "{HTML_URL}/224.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 225,
@@ -2204,10 +2023,7 @@
     "url": "{HTML_URL}/225.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 226,
@@ -2216,10 +2032,7 @@
     "url": "{HTML_URL}/226.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 227,
@@ -2228,10 +2041,7 @@
     "url": "{HTML_URL}/227.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 228,
@@ -2240,10 +2050,7 @@
     "url": "{HTML_URL}/228.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 229,
@@ -2252,10 +2059,7 @@
     "url": "{HTML_URL}/229.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 230,
@@ -2264,10 +2068,7 @@
     "url": "{HTML_URL}/230.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 231,
@@ -2276,10 +2077,7 @@
     "url": "{HTML_URL}/231.html",
     "author": "Flipline Studios",
     "authorLink": "https://www.flipline.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Cooking"
   },
   {
     "id": 232,
@@ -2288,10 +2086,7 @@
     "url": "{HTML_URL}/232.html",
     "author": "PopCap Games",
     "authorLink": "https://www.ea.com/ea-studios/popcap/plants-vs-zombies",
-    "special": [
-      "flash"
-    ],
-    "genre": "Horror"
+    "genre": "Tower Defense"
   },
   {
     "id": 233,
@@ -2300,7 +2095,7 @@
     "url": "{HTML_URL}/233.html",
     "author": "Superhot Team",
     "authorLink": "https://superhotgame.com",
-    "genre": "Arcade"
+    "genre": "Shooter"
   },
   {
     "id": 234,
@@ -2309,10 +2104,7 @@
     "url": "{HTML_URL}/234.html",
     "author": "Mad.com",
     "authorLink": "https://mad.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 235,
@@ -2321,10 +2113,7 @@
     "url": "{HTML_URL}/235.html",
     "author": "Mad.com",
     "authorLink": "https://mad.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 236,
@@ -2333,10 +2122,7 @@
     "url": "{HTML_URL}/236.html",
     "author": "Mad.com",
     "authorLink": "https://mad.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 237,
@@ -2345,10 +2131,7 @@
     "url": "{HTML_URL}/237.html",
     "author": "Mad.com",
     "authorLink": "https://mad.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 238,
@@ -2357,10 +2140,7 @@
     "url": "{HTML_URL}/238.html",
     "author": "Mad.com",
     "authorLink": "https://mad.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 239,
@@ -2369,10 +2149,7 @@
     "url": "{HTML_URL}/239.html",
     "author": "Yohoho Games",
     "authorLink": "https://yohoho.games",
-    "special": [
-      "flash"
-    ],
-    "genre": "Sports"
+    "genre": "Adventure"
   },
   {
     "id": 240,
@@ -2381,10 +2158,7 @@
     "url": "{HTML_URL}/240.html",
     "author": "Yohoho Games",
     "authorLink": "https://yohoho.games",
-    "special": [
-      "flash"
-    ],
-    "genre": "Sports"
+    "genre": "Adventure"
   },
   {
     "id": 241,
@@ -2393,10 +2167,7 @@
     "url": "{HTML_URL}/241.html",
     "author": "Yohoho Games",
     "authorLink": "https://yohoho.games",
-    "special": [
-      "flash"
-    ],
-    "genre": "Sports"
+    "genre": "Adventure"
   },
   {
     "id": 242,
@@ -2405,10 +2176,7 @@
     "url": "{HTML_URL}/242.html",
     "author": "Yohoho Games",
     "authorLink": "https://yohoho.games",
-    "special": [
-      "flash"
-    ],
-    "genre": "Sports"
+    "genre": "Adventure"
   },
   {
     "id": 243,
@@ -2417,10 +2185,7 @@
     "url": "{HTML_URL}/243.html",
     "author": "Yohoho Games",
     "authorLink": "https://yohoho.games",
-    "special": [
-      "flash"
-    ],
-    "genre": "Sports"
+    "genre": "Adventure"
   },
   {
     "id": 244,
@@ -2429,10 +2194,7 @@
     "url": "{HTML_URL}/244.html",
     "author": "Yohoho Games",
     "authorLink": "https://yohoho.games",
-    "special": [
-      "flash"
-    ],
-    "genre": "Sports"
+    "genre": "Adventure"
   },
   {
     "id": 245,
@@ -2441,10 +2203,7 @@
     "url": "{HTML_URL}/245.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 246,
@@ -2453,10 +2212,7 @@
     "url": "{HTML_URL}/246.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 247,
@@ -2465,10 +2221,7 @@
     "url": "{HTML_URL}/247.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 248,
@@ -2477,10 +2230,7 @@
     "url": "{HTML_URL}/248.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 249,
@@ -2489,10 +2239,7 @@
     "url": "{HTML_URL}/249.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 250,
@@ -2501,10 +2248,7 @@
     "url": "{HTML_URL}/250.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 251,
@@ -2513,10 +2257,7 @@
     "url": "{HTML_URL}/251.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   },
   {
     "id": 252,
@@ -2525,9 +2266,16 @@
     "url": "{HTML_URL}/252.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
-    "special": [
-      "flash"
-    ],
+    "genre": "Adventure"
+  },
+  {
+    "id": 253,
+    "name": "Chat Bot (A.|.I)",
+    "cover": "{COVER_URL}/253.png",
+    "url": "{HTML_URL}/253.html",
+    "author": "gn-math",
+    "authorLink": "https://gn-math.github.io",
+    "featured": true,
     "genre": "Arcade"
   },
   {
@@ -2555,7 +2303,7 @@
     "url": "{HTML_URL}/257.html",
     "author": "Google",
     "authorLink": "https://google.com",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 258,
@@ -2564,9 +2312,6 @@
     "url": "{HTML_URL}/258.html",
     "author": "Garrett McKay",
     "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2577,9 +2322,6 @@
     "author": "sbn3",
     "authorLink": "https://sbn3.com",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2590,9 +2332,6 @@
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/rerun",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Platformer"
   },
   {
@@ -2602,7 +2341,7 @@
     "url": "{HTML_URL}/261.html",
     "author": "Halfbrick Studios",
     "authorLink": "https://www.halfbrick.com/games/fruit-ninja-classic",
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 262,
@@ -2612,9 +2351,6 @@
     "author": "Valve",
     "authorLink": "https://www.valvesoftware.com/en/",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2625,10 +2361,7 @@
     "author": "Id Software",
     "authorLink": "https://www.idsoftware.com/en",
     "featured": true,
-    "special": [
-      "port"
-    ],
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 264,
@@ -2637,7 +2370,7 @@
     "url": "{HTML_URL}/264.html",
     "author": "AzGames",
     "authorLink": "https://azgames.io/escape-road",
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 265,
@@ -2646,7 +2379,7 @@
     "url": "{HTML_URL}/265.html",
     "author": "AzGames",
     "authorLink": "https://azgames.io/escape-road-2",
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 266,
@@ -2656,9 +2389,6 @@
     "author": "Luke Doukakis",
     "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2669,10 +2399,7 @@
     "author": "Tour De Pizza, BurnedPopcorn",
     "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
     "featured": true,
-    "special": [
-      "port"
-    ],
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 268,
@@ -2717,7 +2444,7 @@
     "url": "{HTML_URL}/272.html",
     "author": "MadPuffers",
     "authorLink": "https://poki.com/en/g/basketball-stars",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 273,
@@ -2798,7 +2525,7 @@
     "url": "{HTML_URL}/281.html",
     "author": "Mentolatux",
     "authorLink": "https://www.fiverr.com/mentolatux",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 282,
@@ -2816,7 +2543,7 @@
     "url": "{HTML_URL}/283.html",
     "author": "New Eich Games",
     "authorLink": "https://www.neweichgames.com",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 284,
@@ -2825,7 +2552,7 @@
     "url": "{HTML_URL}/284.html",
     "author": "BANZAI",
     "authorLink": "https://banzai.games/en/",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 285,
@@ -2843,9 +2570,6 @@
     "url": "{HTML_URL}/286.html",
     "author": "Deep Root Interactive",
     "authorLink": "https://store.steampowered.com/app/2124780/Endoparasitic/",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2855,9 +2579,6 @@
     "url": "{HTML_URL}/287.html",
     "author": "JonBro",
     "authorLink": "https://jonbro.newgrounds.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2867,9 +2588,6 @@
     "url": "{HTML_URL}/288.html",
     "author": "JonBro",
     "authorLink": "https://jonbro.newgrounds.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2879,9 +2597,6 @@
     "url": "{HTML_URL}/289.html",
     "author": "JonBro",
     "authorLink": "https://jonbro.newgrounds.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2891,9 +2606,6 @@
     "url": "{HTML_URL}/290.html",
     "author": "JonBro",
     "authorLink": "https://jonbro.newgrounds.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2903,9 +2615,6 @@
     "url": "{HTML_URL}/291.html",
     "author": "JonBro",
     "authorLink": "https://jonbro.newgrounds.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2915,9 +2624,6 @@
     "url": "{HTML_URL}/292.html",
     "author": "JonBro",
     "authorLink": "https://jonbro.newgrounds.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2927,9 +2633,6 @@
     "url": "{HTML_URL}/293.html",
     "author": "JonBro",
     "authorLink": "https://jonbro.newgrounds.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -2948,7 +2651,7 @@
     "url": "{HTML_URL}/295.html",
     "author": "Shared Dreams Studio",
     "authorLink": "https://play.google.com/store/apps/dev?id=6107531068522107777&hl=en_US",
-    "genre": "Shooter"
+    "genre": "Fighting"
   },
   {
     "id": 296,
@@ -2957,9 +2660,6 @@
     "url": "{HTML_URL}/296.html",
     "author": "jpd002",
     "authorLink": "https://github.com/jpd002/Play-",
-    "special": [
-      "emulator"
-    ],
     "genre": "Arcade"
   },
   {
@@ -3023,7 +2723,7 @@
     "url": "{HTML_URL}/303.html",
     "author": "TTCreator",
     "authorLink": "https://play.google.com/store/apps/dev?id=8652009334379030762",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 304,
@@ -3032,9 +2732,6 @@
     "url": "{HTML_URL}/304.html",
     "author": "Tom Fulp, Dan Paladin",
     "authorLink": "https://www.newgrounds.com/portal/view/59593",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -3053,7 +2750,7 @@
     "url": "{HTML_URL}/306.html",
     "author": "OnRush Studio",
     "authorLink": "https://onrush.studio",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 307,
@@ -3062,7 +2759,7 @@
     "url": "{HTML_URL}/307.html",
     "author": "emolingo games",
     "authorLink": "https://emolingo.games",
-    "genre": "Arcade"
+    "genre": "Action"
   },
   {
     "id": 308,
@@ -3071,7 +2768,7 @@
     "url": "{HTML_URL}/308.html",
     "author": "nzp team",
     "authorLink": "https://nzp-team.itch.io/nazi-zombies-portable",
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 309,
@@ -3080,7 +2777,7 @@
     "url": "{HTML_URL}/309.html",
     "author": "R74N",
     "authorLink": "https://store.steampowered.com/app/3664820/Sandboxels/",
-    "genre": "Arcade"
+    "genre": "Sandbox"
   },
   {
     "id": 310,
@@ -3089,7 +2786,7 @@
     "url": "{HTML_URL}/310.html",
     "author": "GameTornado",
     "authorLink": "https://gametornado.com/",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 311,
@@ -3116,7 +2813,7 @@
     "url": "{HTML_URL}/313.html",
     "author": "gamesnacks",
     "authorLink": "https://gamesnacks.com",
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 314,
@@ -3125,7 +2822,7 @@
     "url": "{HTML_URL}/314.html",
     "author": "Runouw",
     "authorLink": "https://runouw.com/games/",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 315,
@@ -3134,7 +2831,7 @@
     "url": "{HTML_URL}/315.html",
     "author": "Schteppe",
     "authorLink": "https://x.com/schteppe",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 316,
@@ -3143,7 +2840,7 @@
     "url": "{HTML_URL}/316.html",
     "author": "Rovio",
     "authorLink": "https://rovio.com",
-    "genre": "Arcade"
+    "genre": "Action"
   },
   {
     "id": 317,
@@ -3170,7 +2867,7 @@
     "url": "{HTML_URL}/319.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.Polystation.BuildABabe",
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 320,
@@ -3179,7 +2876,7 @@
     "url": "{HTML_URL}/320.html",
     "author": "Italic Games",
     "authorLink": "https://play.google.com/store/apps/details?id=com.threed.bowling",
-    "genre": "Arcade"
+    "genre": "Action"
   },
   {
     "id": 321,
@@ -3188,7 +2885,7 @@
     "url": "{HTML_URL}/321.html",
     "author": "Gamincat",
     "authorLink": "https://play.google.com/store/apps/details?id=com.gamincat.roomsort",
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 322,
@@ -3233,7 +2930,7 @@
     "url": "{HTML_URL}/326.html",
     "author": "Voodoo",
     "authorLink": "https://play.google.com/store/apps/details?id=com.lawson.poke",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 327,
@@ -3242,7 +2939,7 @@
     "url": "{HTML_URL}/327.html",
     "author": "GameSnacks",
     "authorLink": "https://gamesnacks.com/games/slime-io",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 328,
@@ -3288,7 +2985,7 @@
     "url": "{HTML_URL}/332.html",
     "author": "Supersonic Studios LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 333,
@@ -3297,10 +2994,7 @@
     "url": "{HTML_URL}/333.html",
     "author": "Brad Borne",
     "authorLink": "https://www.bornegames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 334,
@@ -3309,10 +3003,7 @@
     "url": "{HTML_URL}/334.html",
     "author": "Brad Borne",
     "authorLink": "https://www.bornegames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 335,
@@ -3321,10 +3012,7 @@
     "url": "{HTML_URL}/335.html",
     "author": "Brad Borne",
     "authorLink": "https://www.bornegames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 336,
@@ -3333,10 +3021,7 @@
     "url": "{HTML_URL}/336.html",
     "author": "Brad Borne",
     "authorLink": "https://www.bornegames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 337,
@@ -3345,10 +3030,7 @@
     "url": "{HTML_URL}/337.html",
     "author": "Brad Borne",
     "authorLink": "https://www.bornegames.com",
-    "special": [
-      "flash"
-    ],
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 338,
@@ -3357,7 +3039,7 @@
     "url": "{HTML_URL}/338.html",
     "author": "New Eich Games",
     "authorLink": "https://www.neweichgames.com",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 339,
@@ -3375,9 +3057,6 @@
     "url": "{HTML_URL}/340.html",
     "author": "Light Bringer Games",
     "authorLink": "http://lightbringergames.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -3387,9 +3066,6 @@
     "url": "{HTML_URL}/341.html",
     "author": "Light Bringer Games",
     "authorLink": "http://lightbringergames.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -3399,9 +3075,6 @@
     "url": "{HTML_URL}/342.html",
     "author": "Light Bringer Games",
     "authorLink": "http://lightbringergames.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -3411,9 +3084,6 @@
     "url": "{HTML_URL}/343.html",
     "author": "Light Bringer Games",
     "authorLink": "http://lightbringergames.com",
-    "special": [
-      "flash"
-    ],
     "genre": "Simulation"
   },
   {
@@ -3423,10 +3093,7 @@
     "url": "{HTML_URL}/344.html",
     "author": "GaZZer Game",
     "authorLink": "https://play.google.com/store/apps/dev?id=8915125137205442318",
-    "special": [
-      "flash"
-    ],
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 345,
@@ -3435,10 +3102,7 @@
     "url": "{HTML_URL}/345.html",
     "author": "GaZZer Game",
     "authorLink": "https://play.google.com/store/apps/dev?id=8915125137205442318",
-    "special": [
-      "flash"
-    ],
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 346,
@@ -3447,7 +3111,7 @@
     "url": "{HTML_URL}/346.html",
     "author": "graebor",
     "authorLink": "https://x.com/graebor",
-    "genre": "Arcade"
+    "genre": "Puzzle"
   },
   {
     "id": 347,
@@ -3483,9 +3147,6 @@
     "url": "{HTML_URL}/350.html",
     "author": "Edmund McMillen",
     "authorLink": "https://store.steampowered.com/app/113204/Binding_of_Isaac_Wrath_of_the_Lamb/",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -3504,9 +3165,6 @@
     "url": "{HTML_URL}/352.html",
     "author": "GD Colon",
     "authorLink": "https://thirtydollar.website",
-    "special": [
-      "tools"
-    ],
     "genre": "Arcade"
   },
   {
@@ -3525,7 +3183,7 @@
     "url": "{HTML_URL}/354.html",
     "author": "Hyper Hippo Games",
     "authorLink": "https://store.steampowered.com/app/346900/AdVenture_Capitalist/",
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 355,
@@ -3579,7 +3237,7 @@
     "url": "{HTML_URL}/360.html",
     "author": "Night Steed S.C.",
     "authorLink": "https://play.google.com/store/apps/dev?id=6316404222579633373",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 361,
@@ -3632,8 +3290,8 @@
     "cover": "{COVER_URL}/366.png",
     "url": "{HTML_URL}/366.html",
     "author": "idfk",
-    "authorLink": "https://google.com",
-    "genre": "Puzzle"
+    "authorLink": "https://gn-math.github.io",
+    "genre": "Arcade"
   },
   {
     "id": 367,
@@ -3650,8 +3308,8 @@
     "cover": "{COVER_URL}/368.png",
     "url": "{HTML_URL}/368.html",
     "author": "idfk",
-    "authorLink": "https://google.com",
-    "genre": "Arcade"
+    "authorLink": "https://gn-math.github.io",
+    "genre": "Endless Runner"
   },
   {
     "id": 369,
@@ -3669,7 +3327,7 @@
     "url": "{HTML_URL}/370.html",
     "author": "Tall Team",
     "authorLink": "https://tall.team/",
-    "genre": "Racing"
+    "genre": "Arcade"
   },
   {
     "id": 371,
@@ -3687,7 +3345,7 @@
     "url": "{HTML_URL}/372.html",
     "author": "y8",
     "authorLink": "https://www.y8.com/games/stickman_boost",
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 373,
@@ -3696,7 +3354,7 @@
     "url": "{HTML_URL}/373.html",
     "author": "No Pressure Studios",
     "authorLink": "https://www.nopressurestudios.com",
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 374,
@@ -3705,7 +3363,7 @@
     "url": "{HTML_URL}/374.html",
     "author": "NoodleCake",
     "authorLink": "https://noodlecake.com",
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 375,
@@ -3723,7 +3381,7 @@
     "url": "{HTML_URL}/376.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 377,
@@ -3732,7 +3390,7 @@
     "url": "{HTML_URL}/377.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 378,
@@ -3741,7 +3399,7 @@
     "url": "{HTML_URL}/378.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 379,
@@ -3885,7 +3543,7 @@
     "url": "{HTML_URL}/394.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 395,
@@ -3948,7 +3606,7 @@
     "url": "{HTML_URL}/401.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 402,
@@ -3957,7 +3615,7 @@
     "url": "{HTML_URL}/402.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Action"
+    "genre": "Fighting"
   },
   {
     "id": 403,
@@ -3966,7 +3624,7 @@
     "url": "{HTML_URL}/403.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 404,
@@ -3984,7 +3642,7 @@
     "url": "{HTML_URL}/405.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 406,
@@ -4092,7 +3750,7 @@
     "url": "{HTML_URL}/417.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 418,
@@ -4147,10 +3805,7 @@
     "author": "LameDev",
     "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/",
     "featured": true,
-    "special": [
-      "port"
-    ],
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 426,
@@ -4159,10 +3814,7 @@
     "url": "{HTML_URL}/426.html",
     "author": "M36games",
     "authorLink": "https://m36games.itch.io/applefarm",
-    "special": [
-      "port"
-    ],
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 427,
@@ -4172,9 +3824,6 @@
     "author": "Omocat",
     "authorLink": "https://omocat.com",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4184,10 +3833,16 @@
     "url": "{HTML_URL}/428.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "special": [
-      "port"
-    ],
     "genre": "Horror"
+  },
+  {
+    "id": 429,
+    "name": "Code Editor",
+    "cover": "{COVER_URL}/429.png",
+    "url": "{HTML_URL}/429.html",
+    "author": "gn-math",
+    "authorLink": "https://gn-math.github.io",
+    "genre": "Arcade"
   },
   {
     "id": 430,
@@ -4205,7 +3860,7 @@
     "url": "{HTML_URL}/431.html",
     "author": "Diamond Games",
     "authorLink": "https://www.crazygames.com/game/99-balls",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 432,
@@ -4224,9 +3879,6 @@
     "author": "kikiyama",
     "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4336,9 +3988,6 @@
     "author": "Con Man Games, SmashGames and Sean Young",
     "authorLink": "https://store.steampowered.com/app/589590/Kindergarten",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4349,16 +3998,13 @@
     "author": "Con Man Games, SmashGames and Sean Young",
     "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
     "id": 447,
     "name": "Nijika's Ahoge",
     "cover": "{COVER_URL}/447.png",
-    "url": "{HTML_URL}/447-e.html",
+    "url": "{HTML_URL}/447.html",
     "author": "TamaniDamani",
     "authorLink": "https://tamanidamani.itch.io/nijikas-ahoge",
     "genre": "Arcade"
@@ -4370,7 +4016,7 @@
     "url": "{HTML_URL}/448.html",
     "author": "Voodoo",
     "authorLink": "https://play.google.com/store/apps/details?id=com.cassette.aquapark",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 449,
@@ -4388,10 +4034,7 @@
     "url": "{HTML_URL}/450.html",
     "author": "MANGLEDmaw Games, DreadXP",
     "authorLink": "https://store.steampowered.com/app/2166060/Amanda_the_Adventurer",
-    "special": [
-      "port"
-    ],
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 451,
@@ -4400,9 +4043,6 @@
     "url": "{HTML_URL}/451.html",
     "author": "Parsec Productions",
     "authorLink": "https://www.indiedb.com/games/slender-the-eight-pages/downloads/slender-v096",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4412,7 +4052,7 @@
     "url": "{HTML_URL}/452.html",
     "author": "Maksim Chmutov",
     "authorLink": "https://booleet.itch.io/station-141",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 453,
@@ -4421,7 +4061,7 @@
     "url": "{HTML_URL}/453.html",
     "author": "Maksim Chmutov",
     "authorLink": "https://booleet.itch.io/station-saturn",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 454,
@@ -4430,9 +4070,6 @@
     "url": "{HTML_URL}/454.html",
     "author": "SHROOMYCHRIST-STUDIOS",
     "authorLink": "https://shroomychrist-studios.itch.io/bloodmoney",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4442,9 +4079,6 @@
     "url": "{HTML_URL}/455.html",
     "author": "Paledoptera",
     "authorLink": "https://gamejolt.com/games/bergentruck/1007556",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4454,9 +4088,6 @@
     "url": "{HTML_URL}/456.html",
     "author": "Team Undertale Yellow",
     "authorLink": "https://gamejolt.com/games/UndertaleYellow/136925",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4466,9 +4097,6 @@
     "url": "{HTML_URL}/457.html",
     "author": "Redbeet Interactive, Axolot Games, Ashen Arrow",
     "authorLink": "https://store.steampowered.com/app/648800/Raft",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4478,9 +4106,6 @@
     "url": "{HTML_URL}/458.html",
     "author": "Curious Fox Sox",
     "authorLink": "https://store.steampowered.com/app/3667230/The_Deadseat",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4490,9 +4115,6 @@
     "url": "{HTML_URL}/459.html",
     "author": "Zed Technician",
     "authorLink": "https://zed-technician.itch.io/the-man-from-the-window",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4502,9 +4124,6 @@
     "url": "{HTML_URL}/460.html",
     "author": "Rayll",
     "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4514,7 +4133,7 @@
     "url": "{HTML_URL}/461.html",
     "author": "slither.io",
     "authorLink": "http://slither.com/io",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 462,
@@ -4523,9 +4142,6 @@
     "url": "{HTML_URL}/462.html",
     "author": "racheldrawsthis",
     "authorLink": "https://racheldrawsthis.itch.io/dead-plate",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4535,9 +4151,6 @@
     "url": "{HTML_URL}/463.html",
     "author": "ghosttundra, Euroclipse, Brand New Groove",
     "authorLink": "https://laceysflashgames.itch.io/laceys-flash-games",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4557,9 +4170,6 @@
     "author": "Studio MDHR Entertainment Inc",
     "authorLink": "https://store.steampowered.com/app/268910/Cuphead",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4569,23 +4179,17 @@
     "url": "{HTML_URL}/466.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics-classic-remastered",
-    "special": [
-      "port"
-    ],
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 467,
     "name": "Baldi's Basics Plus",
     "cover": "{COVER_URL}/467.png",
-    "url": "{HTML_URL}/467-updatee.html",
+    "url": "{HTML_URL}/467.html",
     "author": "Basically Games",
     "authorLink": "https://basically-games.itch.io/baldis-basics-plus",
     "featured": true,
-    "special": [
-      "port"
-    ],
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 468,
@@ -4595,9 +4199,6 @@
     "author": "Team Cherry",
     "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4607,9 +4208,6 @@
     "url": "{HTML_URL}/469.html",
     "author": "ading2210",
     "authorLink": "https://github.com/ading2210/sandstone",
-    "special": [
-      "tools"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4619,7 +4217,7 @@
     "url": "{HTML_URL}/470.html",
     "author": "Marko Pusenjak",
     "authorLink": "https://play.google.com/store/apps/details?id=com.lima.doodlejump&hl=en_US&pli=1",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 471,
@@ -4628,10 +4226,7 @@
     "url": "{HTML_URL}/471.html",
     "author": "Krinkels, The-Swain, cheshyre, Luis, Rebel666",
     "authorLink": "https://www.newgrounds.com/portal/view/592473",
-    "special": [
-      "flash"
-    ],
-    "genre": "Shooter"
+    "genre": "Fighting"
   },
   {
     "id": 472,
@@ -4640,7 +4235,7 @@
     "url": "{HTML_URL}/472.html",
     "author": "jcw87",
     "authorLink": "https://jcw87.github.io/c2-sans-fight/",
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 473,
@@ -4703,7 +4298,7 @@
     "url": "{HTML_URL}/479.html",
     "author": "nagami games",
     "authorLink": "https://yandex.com/games/app/447526",
-    "genre": "Puzzle"
+    "genre": "Arcade"
   },
   {
     "id": 480,
@@ -4730,9 +4325,6 @@
     "url": "{HTML_URL}/482-2.html",
     "author": "SHROOMYCHRIST-STUDIOS",
     "authorLink": "https://shroomychrist-studios.itch.io/",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4805,7 +4397,7 @@
     "url": "{HTML_URL}/490.html",
     "author": "Neweichgames",
     "authorLink": "https://www.neweichgames.com",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 491,
@@ -4904,9 +4496,6 @@
     "url": "{HTML_URL}/501.html",
     "author": "Con Man Games, SmashGames and Sean Young",
     "authorLink": "https://store.steampowered.com/app/2695570/Kindergarten_3/",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4916,10 +4505,7 @@
     "url": "{HTML_URL}/502.html",
     "author": "Sam Hogan",
     "authorLink": "https://samhogan.itch.io/stick-with-it/",
-    "special": [
-      "port"
-    ],
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 503,
@@ -4928,10 +4514,7 @@
     "url": "{HTML_URL}/503.html",
     "author": "Emil \"Ace\" Macko",
     "authorLink": "https://gamejolt.com/games/five-nights-at-candy-s-official/70253",
-    "special": [
-      "port"
-    ],
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 504,
@@ -4940,10 +4523,7 @@
     "url": "{HTML_URL}/504.html",
     "author": "Emil \"Ace\" Macko",
     "authorLink": "https://gamejolt.com/games/five-nights-at-candy-s-2-official/110234",
-    "special": [
-      "port"
-    ],
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 505,
@@ -4952,9 +4532,7 @@
     "url": "{HTML_URL}/505.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
-    "special": [
-      "emulator"
-    ],
+    "emulator": true,
     "genre": "Arcade"
   },
   {
@@ -4964,9 +4542,7 @@
     "url": "{HTML_URL}/506.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
-    "special": [
-      "emulator"
-    ],
+    "emulator": true,
     "genre": "Arcade"
   },
   {
@@ -4976,9 +4552,6 @@
     "url": "{HTML_URL}/507.html",
     "author": "SPLAPP-ME-DO",
     "authorLink": "https://splapp-me-do.newgrounds.com/",
-    "special": [
-      "flash"
-    ],
     "genre": "Arcade"
   },
   {
@@ -4988,10 +4561,8 @@
     "url": "{HTML_URL}/508.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
-    "special": [
-      "emulator"
-    ],
-    "genre": "Party"
+    "emulator": true,
+    "genre": "Arcade"
   },
   {
     "id": 509,
@@ -5009,10 +4580,8 @@
     "url": "{HTML_URL}/510.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
-    "special": [
-      "emulator"
-    ],
-    "genre": "Party"
+    "emulator": true,
+    "genre": "Arcade"
   },
   {
     "id": 511,
@@ -5021,7 +4590,7 @@
     "url": "{HTML_URL}/511.html",
     "author": "rkn",
     "authorLink": "https://www.patreon.com/dogeminer/about",
-    "genre": "Adventure"
+    "genre": "Arcade"
   },
   {
     "id": 512,
@@ -5039,7 +4608,7 @@
     "url": "{HTML_URL}/513.html",
     "author": "Studio-19",
     "authorLink": "https://studio-19.itch.io/swordfight",
-    "genre": "Action"
+    "genre": "Fighting"
   },
   {
     "id": 514,
@@ -5057,7 +4626,7 @@
     "url": "{HTML_URL}/515.html",
     "author": "BerickCook",
     "authorLink": "https://berickcook.itch.io/pacman",
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 516,
@@ -5075,10 +4644,7 @@
     "url": "{HTML_URL}/517.html",
     "author": "MogDogBlog Productions",
     "authorLink": "https://mogdogblog-productions.itch.io/nubbys-number-factory",
-    "special": [
-      "port"
-    ],
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 518,
@@ -5096,7 +4662,7 @@
     "url": "{HTML_URL}/519.html",
     "author": "Astrobard Games, Khao Mortadios",
     "authorLink": "https://astrobardgames.itch.io/generic-fighter-maybe",
-    "genre": "Action"
+    "genre": "Fighting"
   },
   {
     "id": 520,
@@ -5123,7 +4689,7 @@
     "url": "{HTML_URL}/522.html",
     "author": "Lumpy, Spasco",
     "authorLink": "https://lumpytouch.itch.io/bad-monday-simulator",
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 523,
@@ -5132,9 +4698,6 @@
     "url": "{HTML_URL}/523.html",
     "author": "vgperson",
     "authorLink": "https://vgperson.com/games/touhoumother.htm",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -5144,9 +4707,6 @@
     "url": "{HTML_URL}/524.html",
     "author": "NanaOn-Sha",
     "authorLink": "https://www.nanaon-sha.co.jp/",
-    "special": [
-      "emulator"
-    ],
     "genre": "Arcade"
   },
   {
@@ -5201,7 +4761,7 @@
     "url": "{HTML_URL}/530.html",
     "author": "Nickelodeon",
     "authorLink": "https://nick.com",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 531,
@@ -5237,7 +4797,7 @@
     "url": "{HTML_URL}/534.html",
     "author": "Cartoon Network",
     "authorLink": "https://cartoonnetwork.com",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 535,
@@ -5246,7 +4806,7 @@
     "url": "{HTML_URL}/535.html",
     "author": "Cartoon Network",
     "authorLink": "https://cartoonnetwork.com",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 536,
@@ -5255,7 +4815,7 @@
     "url": "{HTML_URL}/536.html",
     "author": "MOSTLY MAD PRODUCTIONS",
     "authorLink": "https://mostlymadproductions.itch.io/cat-connection",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 537,
@@ -5264,7 +4824,7 @@
     "url": "{HTML_URL}/537.html",
     "author": "Poki",
     "authorLink": "https://poki.com/en/g/cat-gunner-super-zombie-shoot",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 538,
@@ -5310,9 +4870,6 @@
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/",
     "featured": true,
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -5322,9 +4879,6 @@
     "url": "{HTML_URL}/543-a.html",
     "author": "DaniDev",
     "authorLink": "https://danidev.itch.io/",
-    "special": [
-      "port"
-    ],
     "genre": "Racing"
   },
   {
@@ -5361,7 +4915,7 @@
     "url": "{HTML_URL}/547.html",
     "author": "Blue Wizard",
     "authorLink": "https://baseballbros.io",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 548,
@@ -5370,7 +4924,7 @@
     "url": "{HTML_URL}/548.html",
     "author": "Blue Wizard",
     "authorLink": "https://footballbros.io",
-    "genre": "Sports"
+    "genre": "Arcade"
   },
   {
     "id": 549,
@@ -5397,7 +4951,7 @@
     "url": "{HTML_URL}/551.html",
     "author": "VobbyGames, weirdnessworld",
     "authorLink": "https://play.google.com/store/apps/details?id=com.Hypper&hl=en_US",
-    "genre": "Arcade"
+    "genre": "Sandbox"
   },
   {
     "id": 552,
@@ -5424,10 +4978,7 @@
     "url": "{HTML_URL}/554.html",
     "author": "YandereDev",
     "authorLink": "https://yanderesimulator.com/",
-    "special": [
-      "port"
-    ],
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 555,
@@ -5454,10 +5005,7 @@
     "url": "{HTML_URL}/557.html",
     "author": "Bennett Foddy",
     "authorLink": "https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/",
-    "special": [
-      "port"
-    ],
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 558,
@@ -5484,9 +5032,6 @@
     "url": "{HTML_URL}/560.html",
     "author": "VyletBunni",
     "authorLink": "https://gamejolt.com/games/deltatraveler/661464",
-    "special": [
-      "port"
-    ],
     "genre": "Arcade"
   },
   {
@@ -5496,7 +5041,7 @@
     "url": "{HTML_URL}/561.html",
     "author": "Hazmob",
     "authorLink": "https://www.crazygames.com/game/bit-gun-io",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 562,
@@ -5523,7 +5068,7 @@
     "url": "{HTML_URL}/564.html",
     "author": "FreePlay LLC",
     "authorLink": "https://www.crazygames.com/game/count-masters-stickman-games",
-    "genre": "Action"
+    "genre": "Arcade"
   },
   {
     "id": 565,
@@ -5586,7 +5131,7 @@
     "url": "{HTML_URL}/572.html",
     "author": "CrazyGames",
     "authorLink": "https://www.crazygames.com/",
-    "genre": "Platformer"
+    "genre": "Arcade"
   },
   {
     "id": 573,
@@ -5631,7 +5176,7 @@
     "url": "{HTML_URL}/577.html",
     "author": "CrazyGames",
     "authorLink": "https://www.crazygames.com/",
-    "genre": "Puzzle"
+    "genre": "Arcade"
   },
   {
     "id": 578,
@@ -5640,7 +5185,7 @@
     "url": "{HTML_URL}/578.html",
     "author": "CrazyGames",
     "authorLink": "https://www.crazygames.com/",
-    "genre": "Shooter"
+    "genre": "Arcade"
   },
   {
     "id": 579,
@@ -5667,7 +5212,7 @@
     "url": "{HTML_URL}/581.html",
     "author": "CrazyGames",
     "authorLink": "https://www.crazygames.com/",
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 582,
@@ -5694,7 +5239,7 @@
     "url": "{HTML_URL}/584.html",
     "author": "CrazyGames",
     "authorLink": "https://www.crazygames.com/",
-    "genre": "Simulation"
+    "genre": "Arcade"
   },
   {
     "id": 585,
@@ -5739,7 +5284,7 @@
     "special": [
       "port"
     ],
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 589,
@@ -5770,7 +5315,7 @@
     "name": "Slime Rancher",
     "cover": "{COVER_URL}/591.png",
     "url": "{HTML_URL}/591-a.html",
-    "author": "Monomi Park, Ported by Snubby.top",
+    "author": "Monomi Park",
     "authorLink": "https://monomipark.com/",
     "special": [
       "port"
@@ -5817,7 +5362,7 @@
     "url": "{HTML_URL}/595.html",
     "author": "scriptwelder",
     "authorLink": "https://scriptwelder.itch.io/waterworks",
-    "genre": "Party"
+    "genre": "Arcade"
   },
   {
     "id": 597,
@@ -5826,7 +5371,7 @@
     "url": "{HTML_URL}/597.html",
     "author": "Gzh0821",
     "authorLink": "https://pvzge.com/en/",
-    "genre": "Horror"
+    "genre": "Arcade"
   },
   {
     "id": 598,
@@ -5836,7 +5381,8 @@
     "author": " Cinossu",
     "authorLink": "https://info.sonicretro.org/An_Ordinary_Sonic_ROM_Hack",
     "special": [
-      "emulator"
+      "emulator",
+      "genesis"
     ],
     "genre": "Arcade"
   },
@@ -5848,7 +5394,8 @@
     "author": " Konami Computer Entertainment Japan",
     "authorLink": "https://www.konami.com/",
     "special": [
-      "emulator"
+      "emulator",
+      "ps1"
     ],
     "genre": "Arcade"
   },
@@ -5860,9 +5407,9 @@
     "author": "Hypno's Lullaby Team",
     "authorLink": "https://gamebanana.com/wips/73522",
     "special": [
-      "fnf"
+      "fnf mods"
     ],
-    "genre": "Rhythm"
+    "genre": "Arcade"
   },
   {
     "id": 601,
@@ -5872,9 +5419,9 @@
     "author": "FNF Vs. Sonic.EXE Team",
     "authorLink": "https://gamebanana.com/mods/531361",
     "special": [
-      "fnf"
+      "fnf mods"
     ],
-    "genre": "Rhythm"
+    "genre": "Arcade"
   },
   {
     "id": 602,
@@ -5884,7 +5431,8 @@
     "author": "id Software",
     "authorLink": "https://www.idsoftware.com/",
     "special": [
-      "emulator"
+      "emulator",
+      "ms-dos"
     ],
     "genre": "Arcade"
   },
@@ -5895,7 +5443,7 @@
     "url": "{HTML_URL}/603-aa.html",
     "author": "growden.io",
     "authorLink": "https://growden.io/",
-    "genre": "Party"
+    "genre": "IO / Multiplayer"
   },
   {
     "id": 604,
@@ -5907,7 +5455,7 @@
     "special": [
       "port"
     ],
-    "genre": "Adventure"
+    "genre": "Puzzle"
   },
   {
     "id": 605,
@@ -5931,7 +5479,7 @@
     "special": [
       "port"
     ],
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 607,
@@ -5943,7 +5491,7 @@
     "special": [
       "port"
     ],
-    "genre": "Arcade"
+    "genre": "Horror"
   },
   {
     "id": 608,
@@ -5992,7 +5540,7 @@
       "emulator",
       "n64"
     ],
-    "genre": "Racing"
+    "genre": "Adventure"
   },
   {
     "id": 612,
@@ -6005,6 +5553,6 @@
       "emulator",
       "n64"
     ],
-    "genre": "Arcade"
+    "genre": "Adventure"
   }
 ]
