@@ -5624,7 +5624,7 @@
     "id": 425,
     "name": "DELTARUNE",
     "cover": "{COVER_URL}/425.png",
-    "url": "{HTML_URL}/425.html",
+    "url": "https://cdn.jsdelivr.net/gh/technonyte00/deltarune@main/index.html",
     "author": "toby fawk",
     "authorLink": "https://store.steampowered.com/app/1671210/DELTARUNE/" ,
     "special": [
