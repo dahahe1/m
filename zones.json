@@ -5615,7 +5615,7 @@
     "url": "{HTML_URL}/618.html",
     "author": "bob v2.0 team",
     "authorLink": "https://gamebanana.com/mods/621085" ,
-     "genre": "trash"
+     "genre": "trash",
     "special": [
       "fnf"
     ]
@@ -5629,7 +5629,7 @@
     "author": "toby fawk",
     "featured": true,
     "authorLink": "https://store.steampowered.com/app/1671210/DELTARUNE/" ,
-    "genre": "RPG"
+    "genre": "RPG",
     "special": [
       "port"
     ]
@@ -5641,7 +5641,7 @@
     "url": "https://portal1-valve.netlify.app/",
     "author": "Valve",
     "authorLink": "https://store.steampowered.com/app/400/Portal/" ,
-    "genre": "Puzzle"
+    "genre": "Puzzle",
     "featured": true,
     "special": [
       "port"
@@ -5653,7 +5653,7 @@
     "cover": "https://files.catbox.moe/xa3s4g.png",
     "url": "https://bapecreatorkaidensarcade.netlify.app/",
     "author": "DFP",
-    "genre": "Arcade"
+    "genre": "Arcade",
     "authorLink": "https://deepfriedproductions.com/" ,
     "featured": true
   }
