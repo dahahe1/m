@@ -2321,7 +2321,6 @@
     "url": "{HTML_URL}/259.html",
     "author": "sbn3",
     "authorLink": "https://sbn3.com",
-    "featured": true,
     "genre": "Arcade"
   },
   {
@@ -2360,7 +2359,6 @@
     "url": "{HTML_URL}/263.html",
     "author": "Id Software",
     "authorLink": "https://www.idsoftware.com/en",
-    "featured": true,
     "genre": "Arcade"
   },
   {
@@ -5617,9 +5615,11 @@
     "url": "{HTML_URL}/618.html",
     "author": "bob v2.0 team",
     "authorLink": "https://gamebanana.com/mods/621085" ,
+     "genre": "trash"
     "special": [
       "fnf"
     ]
+    
   },
   {
     "id": 425,
@@ -5629,6 +5629,7 @@
     "author": "toby fawk",
     "featured": true,
     "authorLink": "https://store.steampowered.com/app/1671210/DELTARUNE/" ,
+    "genre": "RPG"
     "special": [
       "port"
     ]
@@ -5640,6 +5641,7 @@
     "url": "https://portal1-valve.netlify.app/",
     "author": "Valve",
     "authorLink": "https://store.steampowered.com/app/400/Portal/" ,
+    "genre": "Puzzle"
     "featured": true,
     "special": [
       "port"
@@ -5647,10 +5649,11 @@
   },
   {
     "id": 42069,
-    "name": "BAPE Character Creator",
+    "name": "BAPE Char. Creator",
     "cover": "https://files.catbox.moe/xa3s4g.png",
     "url": "https://bapecreatorkaidensarcade.netlify.app/",
     "author": "DFP",
+    "genre": "Arcade"
     "authorLink": "https://deepfriedproductions.com/" ,
     "featured": true
   }
