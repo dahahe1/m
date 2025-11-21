@@ -5605,6 +5605,7 @@
     "name": "Postal",
     "cover": "{COVER_URL}/617.png",
     "url": "{HTML_URL}/617-a.html",
+    "featured": true,
     "author": "Stinkalistic, Running With Scissors",
     "authorLink": "https://runningwithscissors.com/",
     "genre": "Shoot Em' Up"
@@ -5626,6 +5627,7 @@
     "cover": "https://i.pinimg.com/736x/87/37/89/873789156a0c1b88d11a1e21469e7dc2.jpg",
     "url": "https://meek-fox-66f20a.netlify.app/",
     "author": "toby fawk",
+    "featured": true,
     "authorLink": "https://store.steampowered.com/app/1671210/DELTARUNE/" ,
     "special": [
       "port"
@@ -5642,5 +5644,14 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 42069,
+    "name": "BAPE Character Creator",
+    "cover": "https://files.catbox.moe/xa3s4g.png",
+    "url": "https://bapecreatorkaidensarcade.netlify.app/",
+    "author": "DFP",
+    "authorLink": "https://deepfriedproductions.com/" ,
+    "featured": true
   }
 ]
