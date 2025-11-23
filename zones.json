@@ -5674,5 +5674,14 @@
     "url": "{HTML_URL}/620.html",
     "author": "Adventale",
     "authorLink": "https://adventale.net/play/three-goblets/" 
+  },
+  {
+    "id": 1993,
+    "name": "Rollercoaster Tycoon",
+    "cover": "https://files.catbox.moe/wv359j.webp",
+    "url": "https://tourmaline-narwhal-a4e4be.netlify.app/",
+    "author": "Origin8 Technologies Ltd.",
+    "featured": true,
+    "authorLink": "https://store.steampowered.com/developer/Atari?snr=1_5_9__2000" 
   }
 ]
