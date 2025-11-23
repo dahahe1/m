@@ -1500,7 +1500,6 @@
     "url": "{HTML_URL}/166.html",
     "author": "98corbins",
     "authorLink": "https://98corbins.netlify.app",
-    "featured": true,
     "genre": "Arcade"
   },
   {
@@ -1930,7 +1929,6 @@
     "url": "{HTML_URL}/215.html",
     "author": "Joey Drew Studios",
     "authorLink": "https://www.joeydrewstudios.com/batim",
-    "featured": true,
     "genre": "Horror"
   },
   {
@@ -1940,7 +1938,6 @@
     "url": "{HTML_URL}/216.html",
     "author": "Nacho Games",
     "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/",
-    "featured": true,
     "genre": "Simulation"
   },
   {
@@ -2267,16 +2264,6 @@
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com",
     "genre": "Adventure"
-  },
-  {
-    "id": 253,
-    "name": "Chat Bot (A.|.I)",
-    "cover": "{COVER_URL}/253.png",
-    "url": "{HTML_URL}/253.html",
-    "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
-    "featured": true,
-    "genre": "Arcade"
   },
   {
     "id": 255,
@@ -3821,7 +3808,6 @@
     "url": "{HTML_URL}/427-z.html",
     "author": "Omocat",
     "authorLink": "https://omocat.com",
-    "featured": true,
     "genre": "Arcade"
   },
   {
@@ -3876,7 +3862,6 @@
     "url": "{HTML_URL}/433.html",
     "author": "kikiyama",
     "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/",
-    "featured": true,
     "genre": "Arcade"
   },
   {
