@@ -5658,6 +5658,7 @@
     "cover": "{COVER_URL}/620.png",
     "url": "{HTML_URL}/620.html",
     "author": "Adventale",
+     "genre": "Arcade",
     "authorLink": "https://adventale.net/play/three-goblets/" 
   },
   {
@@ -5667,6 +5668,7 @@
     "url": "https://tourmaline-narwhal-a4e4be.netlify.app/",
     "author": "Origin8 Technologies Ltd.",
     "featured": true,
+    "genre": "Tycoon",
     "authorLink": "https://store.steampowered.com/developer/Atari?snr=1_5_9__2000" 
   }
 ]
