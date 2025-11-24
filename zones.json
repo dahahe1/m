@@ -2383,7 +2383,6 @@
     "url": "{HTML_URL}/267.html",
     "author": "Tour De Pizza, BurnedPopcorn",
     "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
-    "featured": true,
     "genre": "Puzzle"
   },
   {
@@ -5670,5 +5669,15 @@
     "featured": true,
     "genre": "Tycoon",
     "authorLink": "https://store.steampowered.com/developer/Atari?snr=1_5_9__2000" 
-  }
+  },
+ {
+  "id": 2004,
+  "name": "Doom 3",
+  "cover": "https://files.catbox.moe/95dxj8.png",
+  "url": "https://doom3kaidensarcade.netlify.app/",
+  "author": "id Software",
+  "featured": true,
+  "genre": "Shooter", 
+  "authorLink": "https://www.idsoftware.com/"
+}
 ]
