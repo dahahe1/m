@@ -1732,7 +1732,7 @@
   {
     "id": 194,
     "name": "People Playground",
-    "cover": "{COVER_URL}/194.png",
+    "cover": "{COVER_URL}/194-m.png",
     "url": "{HTML_URL}/194.html",
     "author": "Studio Minus, 98corbins",
     "authorLink": "https://store.steampowered.com/app/1118200/",
@@ -5679,5 +5679,86 @@
   "featured": true,
   "genre": "Shooter", 
   "authorLink": "https://www.idsoftware.com/"
-}
+},
+    {
+    "id": 621,
+    "name": "Friday Night Funkin': Gumballs",
+    "cover": "{COVER_URL}/621.png",
+    "url": "{HTML_URL}/621.html",
+    "author": "Gumballs team",
+    "authorLink": "https://gamebanana.com/mods/614094" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 622,
+    "name": "Oneshot (LEGACY)",
+    "cover": "{COVER_URL}/622.png",
+    "url": "{HTML_URL}/622.html",
+    "author": "Future Cat LLC, ARandomPerson",
+    "authorLink": "https://store.steampowered.com/app/420530/OneShot/",
+    "special": [
+      "port"
+    ],
+    "featured": true
+  },
+  {
+    "id": 623,
+    "name": "Celeste",
+    "cover": "{COVER_URL}/623.png",
+    "url": "{HTML_URL}/623-work.html",
+    "author": "MaddyMakesGames, Mercury Workshop",
+    "authorLink": "https://store.steampowered.com/app/504230/Celeste/",
+    "special": [
+      "port"
+    ],
+    "featured": true
+  },
+  {
+    "id": 624,
+    "name": "Happy Wheels",
+    "cover": "{COVER_URL}/624.png",
+    "url": "{HTML_URL}/624.html",
+    "author": "Jim Bonacci",
+    "authorLink": "https://totaljerkface.com/"
+  },
+  {
+    "id": 625,
+    "name": "Get Yoked",
+    "cover": "{COVER_URL}/625.png",
+    "url": "{HTML_URL}/625.html",
+    "author": "gregs games",
+    "authorLink": "https://gregs-games.itch.io/get-yoked-2"
+  },
+  {
+    "id": 626,
+    "name": "Doom 3",
+    "cover": "{COVER_URL}/626.png",
+    "url": "{HTML_URL}/626-f.html",
+    "author": "id Software, 98corbins",
+    "authorLink": "https://www.idsoftware.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 627,
+    "name": "Tag",
+    "cover": "{COVER_URL}/627.png",
+    "url": "{HTML_URL}/627.html",
+    "author": "WeLoPlay",
+    "authorLink": "https://www.weloplay.com/"
+  },
+  {
+    "id": 628,
+    "name": "Pizza Tower: Scoutdigo",
+    "cover": "{COVER_URL}/628.png",
+    "url": "{HTML_URL}/628-f.html",
+    "author": "only1indigo, burnedpopcorn",
+    "authorLink": "https://gamebanana.com/wips/75923",
+    "special": [
+      "port"
+    ]
+  }
 ]
