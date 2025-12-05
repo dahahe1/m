@@ -5900,7 +5900,6 @@
       "flash"
     ]
   },
-
    {
     "id": 555545,
     "name": "UNDERTALE",
@@ -5908,7 +5907,6 @@
     "url": "https://undertale-kaidens.netlify.app/",
     "genre": "RPG",
     "author": "Toby Fox",
-    "authorLink": "https://toby.fangamer.com/",
+    "authorLink": "https://toby.fangamer.com/"
   }
-
 ]
