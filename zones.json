@@ -5895,5 +5895,10 @@
     "url": "{HTML_URL}/641.html",
     "genre": "Fighting",
     "author": "AWM Studio Productions LLC",
-    "authorLink": "https://archive.org/details/gdbr_20210915"
-  },
+    "authorLink": "https://archive.org/details/gdbr_20210915",
+    "special": [
+      "flash"
+    ]
+  }
+
+]
