@@ -5896,6 +5896,28 @@
     "genre": "RPG",
     "author": "Toby Fox",
     "authorLink": "https://toby.fangamer.com/"
+  },
+   {
+    "id": 648,
+    "name": "Mindwave",
+    "cover": "{COVER_URL}/648.png",
+    "url": "{HTML_URL}/648-el.html",
+    "author": "HoloHammer",
+    "authorLink": "https://store.steampowered.com/app/2701030/MINDWAVE/",
+    "special": [
+      "port"
+    ]
+  },
+    {
+    "id": 647,
+    "name": "Super Smash Flash",
+    "cover": "{COVER_URL}/647.png",
+    "url": "{HTML_URL}/647.html",
+    "author": "McLeodGaming",
+    "authorLink": "https://www.mcleodgaming.com/",
+    "special": [
+      "flash"
+    ]
   }
 
 ]
