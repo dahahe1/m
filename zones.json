@@ -5902,7 +5902,7 @@
     "name": "Mindwave",
     "cover": "{COVER_URL}/648.png",
      "featured": true,
-    "url": "{HTML_URL}/648-el.html",
+    "url": "https://mindwave-web.netlify.app/",
     "author": "HoloHammer",
      "genre": "Action",
     "authorLink": "https://store.steampowered.com/app/2701030/MINDWAVE/",
