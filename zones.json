@@ -5922,5 +5922,15 @@
     "author": "Christopher Lied",
     "authorLink": "https://bunagames.com/game/craftnite/"
   }
+  {
+    "id": 3455343,
+    "name": "Grand Theft Auto: Vice City",
+      "featured": true,
+     "genre": "Shooter",
+    "cover": "https://files.catbox.moe/1vdwtg.png",
+    "url": "https://gta-vicecity.netlify.app/",
+    "author": "Rockstar Games",
+    "authorLink": "https://www.rockstargames.com/"
+  }
 
 ]
