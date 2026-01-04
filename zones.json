@@ -5931,6 +5931,124 @@
     "url": "https://gta-vicecity.netlify.app/",
     "author": "Rockstar Games",
     "authorLink": "https://www.rockstargames.com/"
+  },
+  {
+    "id": 653,
+    "name": "1 Date Danger",
+    "cover": "{COVER_URL}/653.png",
+    "url": "{HTML_URL}/653.html",
+    "author": "Knives",
+    "authorLink": "https://mawedgone.itch.io/1-date-danger"
+  },
+  {
+    "id": 654,
+    "name": "Final Fantasy VII",
+    "cover": "{COVER_URL}/654.png",
+    "url": "{HTML_URL}/654.html",
+    "author": "Square Enix",
+    "authorLink": "https://ffvii.square-enix-games.com/en-us"
+  },
+  {
+    "id": 655,
+    "name": "Goblin Goopmaxxing",
+    "cover": "{COVER_URL}/655.png",
+    "url": "{HTML_URL}/655.html",
+    "author": "BugfightStudio",
+    "authorLink": "https://store.steampowered.com/app/4107470/Goblin_Goopmaxxing/"
+  },
+  {
+    "id": 656,
+    "name": "Rogue Sergeant The Final Operation",
+    "cover": "{COVER_URL}/656.png",
+    "url": "{HTML_URL}/656.html",
+    "author": "Studiohammergames",
+    "authorLink": "https://studiohammergames.itch.io/rogue-sergeant-the-final-operation"
+  },
+  {
+    "id": 657,
+    "name": "Friday Night Funkin vs Undertale",
+    "cover": "{COVER_URL}/657.png",
+    "url": "{HTML_URL}/657.html",
+    "author": "vs undertale team",
+    "authorLink": "https://gamebanana.com/mods/342415"
+  },
+  {
+    "id": 658,
+    "name": "Midnight Shift",
+    "cover": "{COVER_URL}/658.png",
+    "url": "{HTML_URL}/658.html",
+    "author": "Phantom GD",
+    "authorLink": "https://phantom-gd.itch.io/midnight-shift",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 659,
+    "name": "Orange Roulette",
+    "cover": "{COVER_URL}/659.png",
+    "url": "{HTML_URL}/659.html",
+    "author": "Matzerath",
+    "authorLink": "https://www.newgrounds.com/portal/view/596354",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 660,
+    "name": "Please Dont Touch Anything",
+    "cover": "{COVER_URL}/660.png",
+    "url": "{HTML_URL}/660.html",
+    "author": "Four Quarters",
+    "authorLink": "https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/"
+  },
+  {
+    "id": 661,
+    "name": "Royal Towers: Medieval TD",
+    "cover": "{COVER_URL}/661.png",
+    "url": "{HTML_URL}/661.html",
+    "author": "Superplus Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.superplusgames.tower"
+  },
+  {
+    "id": 662,
+    "name": "Going Balls",
+    "cover": "{COVER_URL}/662.png",
+    "url": "{HTML_URL}/662.html",
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.pronetis.ironball2"
+  },
+  {
+    "id": 663,
+    "name": "3D Bolt Master",
+    "cover": "{COVER_URL}/663.png",
+    "url": "{HTML_URL}/663.html",
+    "author": "Joymaster Puzzle Game Studio",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.screw3d.match.nuts.bolts.pin.jam.away.puzzle"
+  },
+  {
+    "id": 664,
+    "name": "Tall.io",
+    "cover": "{COVER_URL}/664.png",
+    "url": "{HTML_URL}/664.html",
+    "author": "Playgama",
+    "authorLink": "https://playgama.com/"
+  },
+  {
+    "id": 665,
+    "name": "Match Triple 3D",
+    "cover": "{COVER_URL}/665.png",
+    "url": "{HTML_URL}/665.html",
+    "author": "LIHUHU PTE. LTD.",
+    "authorLink": "https://play.google.com/store/apps/details?id=and.lihuhu.machingtriple&hl=en_US"
+  },
+  {
+    "id": 666,
+    "name": "Stick War: Legacy",
+    "cover": "{COVER_URL}/666.png",
+    "url": "{HTML_URL}/666.html",
+    "author": "Max Games Studios",
+    "authorLink": "https://play.google.com/store/apps/details/Stick+War:+Legacy?id=com.maxgames.stickwarlegacy&hl=en_ZA"
   }
 
 ]
