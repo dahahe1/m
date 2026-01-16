@@ -6049,6 +6049,290 @@
     "url": "{HTML_URL}/666.html",
     "author": "Max Games Studios",
     "authorLink": "https://play.google.com/store/apps/details/Stick+War:+Legacy?id=com.maxgames.stickwarlegacy&hl=en_ZA"
+  },
+  {
+    "id": 667,
+    "name": "In Stars and Time",
+    "cover": "{COVER_URL}/667.png",
+    "url": "{HTML_URL}/667-fix.html",
+    "author": "insertdisc5",
+    "authorLink": "https://store.steampowered.com/app/1677310/In_Stars_And_Time/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 668,
+    "name": "Gorilla Tag",
+    "cover": "{COVER_URL}/668.png",
+    "url": "{HTML_URL}/668-fix2.html",
+    "author": "Another Axiom Inc, Boolonx",
+    "authorLink": "https://boolonx.com/gtag/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 669,
+    "name": "Terraria",
+    "cover": "{COVER_URL}/669.png",
+    "url": "{HTML_URL}/669.html",
+    "author": "Re-Logic, Mercury Workshop",
+    "authorLink": "https://terraria.org/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 670,
+    "name": "Raldi's Crackhouse",
+    "cover": "{COVER_URL}/670.png",
+    "url": "{HTML_URL}/670.html",
+    "author": "RCHTeam, Grayson",
+    "authorLink": "https://gamejolt.com/games/raldicrackhouse/769103",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "We Become What We Behold",
+    "cover": "{COVER_URL}/671.png",
+    "url": "{HTML_URL}/671.html",
+    "author": "Ncase",
+    "authorLink": "https://ncase.itch.io/wbwwb"
+  },
+  {
+    "id": 672,
+    "name": "A Difficult Game About Climbing",
+    "cover": "{COVER_URL}/672.png",
+    "url": "{HTML_URL}/672-2.html",
+    "author": "Pontypants",
+    "authorLink": "https://store.steampowered.com/app/2497920/A_Difficult_Game_About_Climbing/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 673,
+    "name": "Hobo 1",
+    "cover": "{COVER_URL}/673.png",
+    "url": "{HTML_URL}/673.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 674,
+    "name": "Hobo 2",
+    "cover": "{COVER_URL}/674.png",
+    "url": "{HTML_URL}/674.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 675,
+    "name": "Hobo 3",
+    "cover": "{COVER_URL}/675.png",
+    "url": "{HTML_URL}/675.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 676,
+    "name": "Hobo 4",
+    "cover": "{COVER_URL}/676.png",
+    "url": "{HTML_URL}/676.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 677,
+    "name": "Hobo 5",
+    "cover": "{COVER_URL}/677.png",
+    "url": "{HTML_URL}/677.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 678,
+    "name": "Hobo 6",
+    "cover": "{COVER_URL}/678.png",
+    "url": "{HTML_URL}/678.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 679,
+    "name": "Hobo 7",
+    "cover": "{COVER_URL}/679.png",
+    "url": "{HTML_URL}/679.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 680,
+    "name": "Kirby Super Star Ultra",
+    "cover": "{COVER_URL}/680.png",
+    "url": "{HTML_URL}/680.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Cooking Mama",
+    "cover": "{COVER_URL}/681.png",
+    "url": "{HTML_URL}/681.html",
+    "author": "Office Create",
+    "authorLink": "https://www.cookingmama.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 682,
+    "name": "Cooking Mama 2",
+    "cover": "{COVER_URL}/682.png",
+    "url": "{HTML_URL}/682.html",
+    "author": "Office Create",
+    "authorLink": "https://www.cookingmama.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 683,
+    "name": "Cooking Mama 3",
+    "cover": "{COVER_URL}/683.png",
+    "url": "{HTML_URL}/683.html",
+    "author": "Office Create",
+    "authorLink": "https://www.cookingmama.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 684,
+    "name": "Kirby Squeak Squad",
+    "cover": "{COVER_URL}/684.png",
+    "url": "{HTML_URL}/684.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 685,
+    "name": "FIFA 11",
+    "cover": "{COVER_URL}/685.png",
+    "url": "{HTML_URL}/685.html",
+    "author": "EA Sports",
+    "authorLink": "https://ea.com",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "FIFA 10",
+    "cover": "{COVER_URL}/686.png",
+    "url": "{HTML_URL}/686.html",
+    "author": "EA Sports",
+    "authorLink": "https://ea.com",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "Pico's School",
+    "cover": "{COVER_URL}/687.png",
+    "url": "{HTML_URL}/687.html",
+    "author": "Tom Fulp",
+    "authorLink": "https://www.newgrounds.com/portal/view/310349",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 688,
+    "name": "Peggle",
+    "cover": "{COVER_URL}/688.png",
+    "url": "{HTML_URL}/688.html",
+    "author": "PopCap Games",
+    "authorLink": "https://store.steampowered.com/app/3480/Peggle_Deluxe/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 689,
+    "name": "Meatboy",
+    "cover": "{COVER_URL}/689.png",
+    "url": "{HTML_URL}/689.html",
+    "author": "Jonathan McEntee",
+    "authorLink": "https://www.newgrounds.com/portal/view/463241",
+    "special": [
+      "flash"
+    ]
+  },
+   {
+    "id": 690,
+    "name": "Friday Night Funkin': AKAGE",
+    "cover": "{COVER_URL}/690.png",
+    "url": "{HTML_URL}/690.html",
+    "author": "owoskitty etc",
+    "authorLink": "https://gamebanana.com/mods/578842" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 691,
+    "name": "Friday Night Funkin': Heartbreak Havoc [Vs. Sky: REDUX]",
+    "cover": "{COVER_URL}/691.png",
+    "url": "{HTML_URL}/691.html",
+    "author": "REDUX Team",
+    "authorLink": "https://gamebanana.com/mods/632935" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 692,
+    "name": "Kirby ~ Soft & Wet",
+    "cover": "{COVER_URL}/692.png",
+    "url": "{HTML_URL}/692.html",
+    "author": "Strimp's Kitchen",
+    "authorLink": "https://strimps-kitchen.itch.io/kirby-soft-and-wet" ,
+    "special": [
+      "port"
+    ]
   }
 
 ]
