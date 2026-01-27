@@ -1641,20 +1641,11 @@
   {
     "id": 182,
     "name": "Minecraft 1.12.2",
-    "cover": "{COVER_URL}/182.png",
+    "cover": "https://minecraft.wiki/images/thumb/Minecraft_PS4_Cover.png/800px-Minecraft_PS4_Cover.png?b7824",
     "url": "{HTML_URL}/182.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com",
     "featured": true,
-    "genre": "Sandbox"
-  },
-  {
-    "id": 183,
-    "name": "Minecraft 1.21.4",
-    "cover": "{COVER_URL}/183.png",
-    "url": "{HTML_URL}/183.html",
-    "author": "zardoy",
-    "authorLink": "https://github.com/zardoy/minecraft-web-client",
     "genre": "Sandbox"
   },
   {
