@@ -1632,7 +1632,7 @@
   {
     "id": 181,
     "name": "Minecraft 1.8.8",
-    "cover": "{COVER_URL}/181.png",
+    "cover": "https://minecraft.wiki/images/thumb/Minecraft_PS4_Cover.png/800px-Minecraft_PS4_Cover.png?b7824",
     "url": "{HTML_URL}/181.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com",
@@ -2640,7 +2640,7 @@
   {
     "id": 297,
     "name": "Minecraft 1.5.2",
-    "cover": "{COVER_URL}/297.png",
+    "cover": "https://minecraft.wiki/images/thumb/Minecraft_PS4_Cover.png/800px-Minecraft_PS4_Cover.png?b7824",
     "url": "{HTML_URL}/297.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com",
@@ -2649,7 +2649,7 @@
   {
     "id": 298,
     "name": "Minecraft Alpha 1.2.6",
-    "cover": "{COVER_URL}/298.png",
+    "cover": "https://minecraft.wiki/images/thumb/Minecraft_PS4_Cover.png/800px-Minecraft_PS4_Cover.png?b7824",
     "url": "{HTML_URL}/298.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com",
@@ -2658,7 +2658,7 @@
   {
     "id": 299,
     "name": "Minecraft Beta 1.3",
-    "cover": "{COVER_URL}/299.png",
+    "cover": "https://minecraft.wiki/images/thumb/Minecraft_PS4_Cover.png/800px-Minecraft_PS4_Cover.png?b7824",
     "url": "{HTML_URL}/299.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com",
@@ -2666,7 +2666,7 @@
   },
   {
     "id": 300,
-    "name": "Minecraft Beta 1.7.3",
+    "name": "https://minecraft.wiki/images/thumb/Minecraft_PS4_Cover.png/800px-Minecraft_PS4_Cover.png?b7824",
     "cover": "{COVER_URL}/300.png",
     "url": "{HTML_URL}/300.html",
     "author": "lax1dude",
