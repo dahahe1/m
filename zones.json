@@ -6171,6 +6171,22 @@
     "special": [
       "port"
     ]
-  }
+  },
+  {
+    "id": 701,
+    "name": "Real Flight Simulator",
+    "cover": "{COVER_URL}/701.png",
+    "url": "{HTML_URL}/701.html",
+    "author": "freezenova",
+    "authorLink": "https://unblocked-games.s3.amazonaws.com/index.html" 
+  },
+  {
+    "id": 699,
+    "name": "Stickman Destruction",
+    "cover": "{COVER_URL}/699.png",
+    "url": "{HTML_URL}/699.html",
+    "author": "freezenova",
+    "authorLink": "https://unblocked-games.s3.amazonaws.com/index.html"
+  },
 
 ]
