@@ -6241,5 +6241,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 705,
+    "name": "Iron Lung",
+    "cover": "{COVER_URL}/705.png",
+    "url": "{HTML_URL}/705-fix.html",
+    "author": "David Szymanski, 98corbins",
+    "authorLink": "https://store.steampowered.com/app/1846170/Iron_Lung/",
+    "special": [
+      "port"
+    ]
   }
 ]
