@@ -1034,14 +1034,13 @@
     "authorLink": "",
     "genre": "Racing"
   },
-  {
+   {
     "id": 117,
     "name": "Space Waves",
     "cover": "{COVER_URL}/117.png",
-    "url": "https://rad-lolly-658e53.netlify.app/",
-    "author": "",
-    "authorLink": "",
-    "genre": "Arcade"
+    "url": "{HTML_URL}/117.html",
+    "author": "do.games",
+    "authorLink": "https://play.google.com/store/apps/dev?id=8163162718412732005&hl=en_US"
   },
   {
     "id": 118,
@@ -6306,6 +6305,18 @@
     "url": "{HTML_URL}/710.html",
     "author": "EvanProductions",
     "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow",
+    "special": [
+      "port"
+    ],
+    "featured": true
+  },
+  {
+    "id": 4201999,
+    "name": "Jumbo Mario",
+    "cover": "https://www.speedrun.com/static/game/nd27p2r1/cover.png?v=fadc3b0",
+    "url": "https://jumbomario.netlify.app/",
+    "author": "jumbo jumbas",
+    "authorLink": " ",
     "special": [
       "port"
     ],
