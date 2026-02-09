@@ -6260,5 +6260,55 @@
     "url": "https://euphonious-mandazi-7300ee.netlify.app/",
     "author": "Onett",
     "authorLink": " "
+  },
+  {
+    "id": 706,
+    "name": "Fear & Hunger",
+    "cover": "{COVER_URL}/706.png",
+    "url": "{HTML_URL}/706-fix.html",
+    "author": "Miro Haverinen, Happy Paintings",
+    "authorLink": "https://store.steampowered.com/app/1002300/Fear__Hunger/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 707,
+    "name": "Traffic Racer",
+    "cover": "{COVER_URL}/707.png",
+    "url": "{HTML_URL}/707-fix.html",
+    "author": "skgames, madkidgames",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.skgames.trafficracer&hl=en_US"
+  },
+  {
+    "id": 708,
+    "name": "Needy Streamer Overload",
+    "cover": "{COVER_URL}/708.png",
+    "url": "{HTML_URL}/708-fix.html",
+    "author": "WSS playground, EDURocks",
+    "authorLink": "https://edurocks.org?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 709,
+    "name": "Survivor.io",
+    "cover": "{COVER_URL}/709.png",
+    "url": "{HTML_URL}/709-fixagain.html",
+    "author": "Habby Pte. Ltd, madkidgames",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow"
+  },
+  {
+    "id": 710,
+    "name": "Five Nights at Epstein's",
+    "cover": "{COVER_URL}/710.png",
+    "url": "{HTML_URL}/710.html",
+    "author": "EvanProductions",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.dxx.firenow",
+    "special": [
+      "port"
+    ],
+    "featured": true
   }
 ]
