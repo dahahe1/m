@@ -36,15 +36,6 @@
     "genre": "Endless Runner"
   },
   {
-    "id": 8,
-    "name": "Friday Night Funkin",
-    "cover": "{COVER_URL}/8.png",
-    "url": "{HTML_URL}/8-a.html",
-    "author": "ninja-muffin24",
-    "authorLink": "https://ninja-muffin24.itch.io/funkin",
-    "genre": "Slop"
-  },
-  {
     "id": 10,
     "name": "Temple Run 2",
     "cover": "{COVER_URL}/10.png",
@@ -1417,51 +1408,6 @@
     "genre": "Simulation"
   },
   {
-    "id": 474,
-    "name": "Friday Night Funkin': V.S. Whitty",
-    "cover": "{COVER_URL}/474.png",
-    "url": "{HTML_URL}/474.html",
-    "author": "Nate Anim8",
-    "authorLink": "https://gamebanana.com/mods/44214",
-    "genre": "Slop"
-  },
-  {
-    "id": 475,
-    "name": "Friday Night Funkin': B-Sides",
-    "cover": "{COVER_URL}/475.png",
-    "url": "{HTML_URL}/475.html",
-    "author": "Rozebud",
-    "authorLink": "https://gamebanana.com/mods/42724",
-    "genre": "Slop"
-  },
-  {
-    "id": 476,
-    "name": "Friday Night Funkin': Vs. Hex",
-    "cover": "{COVER_URL}/476.png",
-    "url": "{HTML_URL}/476.html",
-    "author": "YingYang48 etc",
-    "authorLink": "https://gamebanana.com/mods/44225",
-    "genre": "Slop"
-  },
-  {
-    "id": 477,
-    "name": "Friday Night Funkin': Vs. Hatsune Miku",
-    "cover": "{COVER_URL}/477.png",
-    "url": "{HTML_URL}/477.html",
-    "author": "evidal etc",
-    "authorLink": "https://gamebanana.com/mods/44307",
-    "genre": "Slop"
-  },
-  {
-    "id": 478,
-    "name": "Friday Night Funkin': Neo",
-    "cover": "{COVER_URL}/478.png",
-    "url": "{HTML_URL}/478.html",
-    "author": "JellyFishedm etc",
-    "authorLink": "https://gamebanana.com/mods/44230",
-    "genre": "Slop"
-  },
-  {
     "id": 479,
     "name": "Steal A Brainrot",
     "cover": "{COVER_URL}/479.png",
@@ -1469,87 +1415,6 @@
     "author": "nagami games",
     "authorLink": "https://yandex.com/games/app/447526",
     "genre": "Arcade"
-  },
-  {
-    "id": 480,
-    "name": "Friday Night Funkin': Sarvente's Mid-Fight Masses",
-    "cover": "{COVER_URL}/480.png",
-    "url": "{HTML_URL}/480.html",
-    "author": "Dokki.doodlez etc",
-    "authorLink": "https://gamebanana.com/mods/288792",
-    "genre": "Slop"
-  },
-  {
-    "id": 481,
-    "name": "Friday Night Funkin': vs. Tricky",
-    "cover": "{COVER_URL}/481.png",
-    "url": "{HTML_URL}/481.html",
-    "author": "Banbuds etc",
-    "authorLink": "https://gamebanana.com/mods/44334",
-    "genre": "Slop"
-  },
-  {
-    "id": 483,
-    "name": "Friday Night Funkin': Hit Single Real",
-    "cover": "{COVER_URL}/483.png",
-    "url": "{HTML_URL}/483.html",
-    "author": "Sturm/Churgney Gurgney etc",
-    "authorLink": "https://gamebanana.com/mods/395039",
-    "genre": "Slop"
-  },
-  {
-    "id": 484,
-    "name": "Friday Night Funkin': Creepypasta JP",
-    "cover": "{COVER_URL}/484.png",
-    "url": "{HTML_URL}/484.html",
-    "author": "CPJP Team",
-    "authorLink": "https://gamebanana.com/mods/584886",
-    "genre": "Slop"
-  },
-  {
-    "id": 485,
-    "name": "Friday Night Funkin': vs. Garcello",
-    "cover": "{COVER_URL}/485.png",
-    "url": "{HTML_URL}/485.html",
-    "author": "atsuover etc",
-    "authorLink": "https://gamebanana.com/mods/166531",
-    "genre": "Slop"
-  },
-  {
-    "id": 486,
-    "name": "Friday Night Funkin': Sonic Legacy",
-    "cover": "{COVER_URL}/486.png",
-    "url": "{HTML_URL}/486.html",
-    "author": "JoeDoughBoi etc",
-    "authorLink": "https://gamebanana.com/mods/496733",
-    "genre": "Slop"
-  },
-  {
-    "id": 487,
-    "name": "Friday Night Funkin': vs. QT",
-    "cover": "{COVER_URL}/487.png",
-    "url": "{HTML_URL}/487.html",
-    "author": "Hazardous24 etc",
-    "authorLink": "https://gamebanana.com/mods/299714",
-    "genre": "Slop"
-  },
-  {
-    "id": 488,
-    "name": "Friday Night Funkin': Mistful Crimson Morning Reboot",
-    "cover": "{COVER_URL}/488.png",
-    "url": "{HTML_URL}/488.html",
-    "author": "Stonesteve etc",
-    "authorLink": "https://gamebanana.com/mods/387663",
-    "genre": "Slop"
-  },
-  {
-    "id": 489,
-    "name": "Friday Night Funkin': Indie Cross",
-    "cover": "{COVER_URL}/489.png",
-    "url": "{HTML_URL}/489.html",
-    "author": "MORØ etc",
-    "authorLink": "https://gamejolt.com/games/indiecross/643540",
-    "genre": "Slop"
   },
   {
     "id": 490,
@@ -1577,42 +1442,6 @@
     "author": "Cartoon Network",
     "authorLink": "https://www.cartoonnetwork.com",
     "genre": "Arcade"
-  },
-  {
-    "id": 496,
-    "name": "Friday Night Funkin': Jeffy's Endless Aethos",
-    "cover": "{COVER_URL}/496.png",
-    "url": "{HTML_URL}/496.html",
-    "author": "jeffyfansml99 etc",
-    "authorLink": "https://gamebanana.com/mods/504934",
-    "genre": "Peak"
-  },
-  {
-    "id": 497,
-    "name": "Friday Night Funkin': vs. BOPCITY",
-    "cover": "{COVER_URL}/497.png",
-    "url": "{HTML_URL}/497.html",
-    "author": "Daniel Hummus",
-    "authorLink": "https://gamebanana.com/mods/527514",
-    "genre": "Rhythm"
-  },
-  {
-    "id": 498,
-    "name": "Friday Night Funkin': 17 Bucks: Floor 1",
-    "cover": "{COVER_URL}/498.png",
-    "url": "{HTML_URL}/498.html",
-    "author": "Peacocok6k",
-    "authorLink": "https://gamebanana.com/mods/461390",
-    "genre": "Rhythm"
-  },
-  {
-    "id": 500,
-    "name": "Friday Night Funkin': TWIDDLEFINGER",
-    "cover": "{COVER_URL}/500.png",
-    "url": "{HTML_URL}/500.html",
-    "author": "MAXPROLOVER998",
-    "authorLink": "https://gamebanana.com/mods/525021",
-    "genre": "Bad"
   },
   {
     "id": 501,
@@ -1688,15 +1517,6 @@
     "authorLink": "https://nintendo.com",
     "emulator": true,
     "genre": "Arcade"
-  },
-  {
-    "id": 509,
-    "name": "Friday Night Funkin’ Soft",
-    "cover": "{COVER_URL}/509.png",
-    "url": "{HTML_URL}/509.html",
-    "author": "ShiniTrexx etc",
-    "authorLink": "https://gamebanana.com/mods/523551",
-    "genre": "Bad #  #"
   },
   {
     "id": 510,
@@ -2107,30 +1927,6 @@
     "authorLink": "https://www.cavestory.org/"
   },
   {
-    "id": 633,
-    "name": "Friday Night Funkin': VS. Impostor: Alternated",
-    "cover": "{COVER_URL}/633.png",
-    "url": "{HTML_URL}/633.html",
-    "author": "Alternated team",
-    "genre": "Slop",
-    "authorLink": "https://gamebanana.com/mods/598215" ,
-    "special": [
-      "fnf"
-    ]
-  },
-  {
-    "id": 634,
-    "name": "Friday Night Funkin': Chaos Nightmare - Sonic Vs. Fleetway",
-    "cover": "{COVER_URL}/634.png",
-    "url": "{HTML_URL}/634.html",
-    "author": "Fleetway team",
-    "genre": "Slop",
-    "authorLink": "https://gamebanana.com/mods/359046" ,
-    "special": [
-      "fnf"
-    ]
-  },
-  {
     "id": 635,
     "name": "Spelunky Classic HD",
     "cover": "{COVER_URL}/635.png",
@@ -2138,18 +1934,6 @@
     "author": " nkrapivin",
     "genre": "Platformer",
     "authorLink": "https://yancharkin.itch.io/spelunky-classic-hd"
-  },
-  {
-    "id": 636,
-    "name": "Friday Night Funkin' D-Sides",
-    "cover": "{COVER_URL}/636.png",
-    "url": "{HTML_URL}/636.html",
-    "author": "d-sides team",
-    "genre": "Slop",
-    "authorLink": "https://gamebanana.com/mods/305122",
-    "special": [
-      "fnf"
-    ]
   },
   {
     "id": 637,
@@ -2487,28 +2271,6 @@
     "authorLink": "https://www.newgrounds.com/portal/view/463241",
     "special": [
       "flash"
-    ]
-  },
-   {
-    "id": 690,
-    "name": "Friday Night Funkin': AKAGE",
-    "cover": "{COVER_URL}/690.png",
-    "url": "{HTML_URL}/690.html",
-    "author": "owoskitty etc",
-    "authorLink": "https://gamebanana.com/mods/578842" ,
-    "special": [
-      "fnf"
-    ]
-  },
-  {
-    "id": 691,
-    "name": "Friday Night Funkin': Heartbreak Havoc [Vs. Sky: REDUX]",
-    "cover": "{COVER_URL}/691.png",
-    "url": "{HTML_URL}/691.html",
-    "author": "REDUX Team",
-    "authorLink": "https://gamebanana.com/mods/632935" ,
-    "special": [
-      "fnf"
     ]
   },
   {
